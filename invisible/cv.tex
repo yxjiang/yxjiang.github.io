@@ -1,0 +1,218 @@
+% LaTeX file for resume
+% This file uses the resume document class (res.cls)
+
+\documentclass{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font
+\usepackage{times}
+\usepackage{hyperref}
+\setlength{\textheight}{8.5in} % increase text height to fit on 1-page
+
+\begin{document}
+%\rm
+\begin{resume}
+
+\begin{center}
+\noindent{\LARGE \textbf{Yexi Jiang}}
+\end{center}
+
+\begin{tabbing}
+\hspace{3.3in}\= \kill
+    School of Computing and Information Sciences  \>   Phone: (305) 458 8476\\
+    Florida International University    \>   Email: yjian004@cs.fiu.edu\\
+    Miami, FL, 33199    \>   \url{http://users.cis.fiu.edu/~yjian004/}\\
+	LinkedIn: \url{http://www.linkedin.com/pub/yexi-jiang/21/142/215}
+\end{tabbing}
+\vspace{-15pt}
+
+%\address{  ECS 251, School of Computer and Information Science,\\ Florida International University, 33199, Miami, \\ FL, U.S.A }
+%\address{  Phone: (305)790-4389 \\Email: yexijiang@gmail.com\\Webpage:
+%\href{http://users.cis.fiu.edu/$\simno$yjian004/}{http://users.cis.fiu.edu/$\sim$yjian004/}}
+
+\section{\bfseries\Large Research Interests}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[0cm]
+\noindent    System Event Data Processing, Data Mining, Cloud Analytics, Database, Information Retrieval
+
+\section{\bfseries\Large Education}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.9cm]
+    \vspace{-5pt}
+    \begin{tabbing}%{lp{.8\linewidth}}\\[1pt]
+    \hspace{1.3in}\= \kill % set up two tab positions
+
+        {\bf 2010.8 - Present}  \> Florida International University, Florida, United States\\
+                                \> Ph.D. in Computer Science\\[5pt]
+        {\bf 2007.9 - 2010.7}   \> Sichuan University, Chengdu, Sichuan, China\\
+                                \> M.S. in Computer Science\\[5pt]
+        {\bf 2003.9 - 2007.7}   \> Sichuan University, Chengdu, Sichuan, China\\
+								\> B.E. in Computer Science\\
+    \end{tabbing}
+
+\section{\bfseries\Large Professional Experience}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.9cm]
+\vspace{-5pt}
+
+    \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Research Intern} \> Cloud Platform Technology Group,   \>2012.5 - 2012.8\\
+                            \>\textbf {IBM T.J Watson Research Center}        \>New York, NY\\
+   \end{tabbing}      % suppress blank line after tabbing
+   \begin{itemize}
+   \vspace{-5pt}
+    \item \emph{Cloud Services Marketplace.}
+    The goal of this project is to provide an intelligent platform to facilitate the service acquisition for the customers. This platform enables the service customers to chat with the service platform in natural language and helps them to quickly find out the correct solution based on their business requirements.
+   \end{itemize}\vspace{-10pt}
+
+
+    \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Research Intern} \> Service Management Environments Group,   \>2011.5 - 2011.8\\
+                            \>\textbf {IBM T.J Watson Research Center}        \>New York, NY\\
+   \end{tabbing}      % suppress blank line after tabbing
+   \begin{itemize}
+   \vspace{-5pt}
+    \item \emph{Intelligent Cloud Capacity Management.}
+    This project focuses on cloud capacity prediction, one of the emerging problems by which the cloud service providers are concerned. 
+	We proposed an integrated solution of intelligent cloud capacity estimation for the IBM Smart Cloud Enterprise (SCE) to reduce the unnecessary energy consumption. %In particular, a novel asymmetric and heterogeneous error measure is first proposed to model over-estimation and under-estimation and to guide the prediction process. Then, the future provisioning demand is predicted based on the provisioning history via an ensemble method and the future de-provisioning is inferred based on the life span distributions of VMs along with the life time of active VMs. Finally, the cloud capacity is estimated using the active VMs and the future provisioning/de-provisioning demands.
+    \item \emph{Cloud Service Provisioning Demands Prediction}.
+    %The promise of cloud computing is to provide computing resources instantly whenever they are needed. The state-of-the-art virtual machine (VM) provisioning technology can provision a VM in tens of minutes. This latency may be satisfiable for non-urgent jobs but it is unacceptable for jobs that need to scale out during computation. 
+	Designed an online temporal data mining system for modeling and predicting the cloud VM demand, then provision VMs in advance. %Experimental results using historical data from an IBM cloud in operation demonstrate that we can reduce 80\% of the provisioning time on average and hence significantly improve the cloud service quality and provide the possibility for on-the-fly provisioning.
+   \end{itemize}\vspace{-10pt}
+
+
+   \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Research Assistant} \>Knowledge Discovery Research Group,     \>2010.8 - Present\\
+                                \> \textbf{Florida International University}    \>Miami, FL\\
+   \end{tabbing}      % suppress blank line after tabbing
+   \vspace{-5pt}
+   \begin{itemize}
+    \item \emph{System Event Summarization}.
+    This project focuses on facilitating the diagnosis of computer systems based on system logs summarization. 
+	We proposed a novel framework called \emph{Natural Event Summarization (NES)} to summarizes the event log by capturing the temporal pattern among events. 
+	Given the system log, NES is able to discovery the multi-party relationships among events and facilitate the analytic tasks of the system administrators.
+    %Our framework uses the minimum description length principle to guide the process in order to balance between accuracy and brevity. Also, we use multi-resolution analysis for pruning the problem space. We demonstrate how the principles can be applied to generate summaries with periodic patterns and correlation patterns in the framework. Experimental results on synthetic and real data show our method is capable of producing usable event summary, robust to noises, and scalable.
+
+    \item \emph{Dynamic Query Form for Database Query}.
+    This project focuses on facilitating complicated query tasks for users. 
+	We proposed a query system that is convenient for non-expert user to query information from semi-structured data.
+    The system is able to dynamically generate query form that satisfy the potential requirement of the users by inferencing the intention of the users during interaction.
+    %The system has good performance on the aspects of system storage efficiency, query efficiency and interface friendliness. The goal of the system is to help the users to get the information they need as fast and convenient as possible.
+   \end{itemize}
+
+
+   \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Full-time Intern} \> Data Intelligence and Tools Group,   \>2009.3 - 2009.7\\
+                            \>\textbf {Microsoft Research Asia}        \>Beijing, China\\
+   \end{tabbing}      % suppress blank line after tabbing
+   \vspace{-5pt}
+   \begin{itemize}
+    \item \emph{Office usage behavior pattern mining}. The goal of this project is to discover useful usage behavior to help ameliorate the UI layout of \emph{Office}. 
+	We developed a frequent sequence mining algorithm in a distributed computing environment, and applied it to analyze the \emph{Office} user behavior dataset to discover causal knowledge about the how different users use the \emph{Office} software. The mining result is used to ameliorate the GUI layout of next version \emph{Office} series software.
+   \end{itemize}
+
+   \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Software Engineer} \>\textbf {Mobey Technology Co.,Ltd.}      \>2008.9 - 2009.2\\
+                                \>                  \>Chengdu, China\\
+   \end{tabbing}      % suppress blank line after tabbing
+   \vspace{-5pt}
+   \begin{itemize}
+    \item  Redesigned current database schema according to the requirement and improve the efficiency of storage and query.
+    \item  Implemented the web page classifier for vertical search engine in daily life domain.
+    \end{itemize}
+
+   \begin{tabbing}
+   \hspace{1.6in}\= \hspace{3.3in}\= \kill % set up two tab positions
+    {\bf Research Assistant} \> Database and Knowledge Engineering Institute,   \>2007.3 - 2010.6\\
+                            \>\textbf {Sichuan University}        \>Chengdu, China\\
+
+   \end{tabbing}      % suppress blank line after tabbing
+   \vspace{-5pt}
+   \begin{itemize}
+    \item   Participated in the project of Knowledge Discovery on National Birth Defects, which was supported by the 11-th Five-years Key Programs of NSF China. In charge of part of the design of storage architecture, classification module and the interface development.
+    \item   Participated in the project of Knowledge Discovery on Web Tag and Social Bookmark, which is one of the Innovative Youth Foundation Project of Sichuan Province. In charge of the web tag analysis for the famous social network site \textit{del.icio.us}.
+   \end{itemize}
+
+\section{\bfseries\Large Patent}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.4cm]
+    \begin{enumerate}
+		%\item \textbf{System and Method for Interactive Acquisition of Remote Services}. With Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao, Yang Zhou. \textbf{Under Review}.
+		%%\item \textbf{System and Method for Constructing Semantic Dialog Driven Services and Products Discovery}. With Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao. \textbf{Under Review}.
+		%\item \textbf{System and Method for Complex Service Network Ranking and Clustering}. With Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao, Yang Zhou. \textbf{Under Review}.
+        \item \textbf{System and Method for Cloud Provisioning Accelerator}. With Charles Perng, Rong Chang, Hidayatullah Shaikh, Edward So, Tao Tao, Meir Laker. \textbf{Filed}.
+    \end{enumerate}
+		
+\section{\bfseries\Large Invited Talks}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.3cm]
+    \begin{enumerate}
+        \item   \textbf{Towards Cloud Services Marketplace}. IBM Student Workshop for Frontiers of Cloud Computing, July 30-31, 2012.
+        \item   \textbf{Cloud Analytics for Capacity Planning and Instant VM Provisioning}. IBM Student Workshop for Frontiers of Cloud Computing, December 1-2, 2011.
+    \end{enumerate}
+
+\section{\bfseries\Large Selected Honors and Awards}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.9cm]
+    \vspace{-5pt}
+    \begin{tabbing}
+    \hspace{1.1in}\= \kill
+        2010                \>  Excellent Graduates for Master Students\\
+        2009                \>  IBM Fellowship for excellent Chinese student (80 students all over China)\\
+        2009                \>  Excellent award of 'IBM PureXML Database Engineer' contest (Student group)\\
+        2007 - 2009          \>  Sichuan University Scholarship for Graduated Students \\
+        2007                \>  Excellent Graduates for Undergraduates\\
+        2005                \>  Excellent award of 'IBM CUP' final competition\\
+        2004 - 2007           \>  Scholarship of Sichuan University for undergraduate stduents\\
+    \end{tabbing}
+
+
+\section{\bfseries\Large Publications}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\[-0.5cm]
+%\vspace{-5pt}
+%\subsection{\bfseries Journal Papers}
+%
+%    \begin{enumerate}
+%        \item Mingjie Tang, \textbf{Yexi Jiang}, Yuanchun Zhou,  Jinyan Li, Peng Cui, Ze Luo, Fumin Lei, and Baoping Yan. \textbf{Graph Mining for Outbreaks of Highly Pathogenic Avian Influenza H5N1 Virus in Qinghai Tibet Area.} \textit{ACM Transaction on Intelligence System and Technology (\bf ACM TIST)}.
+%    \end{enumerate}
+
+%\subsection{\bfseries Conference Papers}
+    \begin{enumerate}
+        \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. \textbf{Self-adaptive Cloud Capacity Planning}. \emph{International Conference on Service Computing} \textbf{(SCC)}, Hawaii, USA, 24th-29th June, 2012.
+        \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. \textbf{Intelligent Cloud Capacity Management}. \emph{IEEE/IFIP Network Operations and Management Symposium} \textbf{(NOMS)}, Hawaii, USA, 16th-20th April, 2012.
+        \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. \textbf{ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning}. \emph{IEEE International Conference on Data Mining} \textbf{(ICDM)}, Vancouver, Canada, 11th-14th Decemeber, 2011.
+        \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li. \textbf{Natural Event Summarization}. \emph{ACM Conference on Information and Knowledge Management }(\textbf{CIKM}), Glasgow, Scotland, UK, 24th-28th October, 2011.
+        \item Mingjie Tang, Weihang Wang, \textbf{Yexi Jiang}, Yuanchun Zhou, Jinyan Li, Peng Cui, Ying Liu and Baoping Yan. \textbf{Bird Bring Flues? Mining Frequent and High Weighted Cliques from Birds Migration Network}. \textit{Database System for Advanced Application} (\textbf {DASFAA}). Tsukuba, Japan, April 1-4, 2010.
+        \item Kaikuo Xu, Changjie Tang, Chuan Li, \textbf{Yexi Jiang}, Rong Tang. \textbf{An MDL Approach to Efficiently Discover Communities in Bipartite Network}. \textit{Database System for Advanced Application} (\textbf {DASFAA}). Tsukuba, Japan, April 1-4, 2010.
+        \item \textbf{Yexi Jiang}, Changjie Tang, Kaikuo Xu, Yu Chen, Jie Gong, Liang Tang. \textbf{CTSC: Core-Tag oriented Spectral Clustering Algorithm on Web2.0 Tags}. \textit{The International Conference on Fuzzy Systems and Knowledge Discovery} \textbf{(FSKD)}. Tianjin, China, Augest 14-16, 2009.
+        \item \textbf{Yexi Jiang}, Changjie Tang, Kaikuo Xu, Lei Duan, Liang Tang, Jie Gong, Chuan Li. \textbf{Core-Tag Clustering for Web 2.0 based on Multi-Similarity Measurements}. \textit{The International Workshop on DataBase and Information Retrieval \& Aspects in Evaluating Holistic Quality of Ontology-based Information Retrieval} \textbf{(ApWeb Workshop)}. Suzhou, China, April 2-4, 2009.
+        \item Liang Tang, Changjie Tang, Lei Duan, Chuan Li, \textbf{Yexi Jiang}, Chunqiu Zeng. MovStream: An efficient algorithm for monitoring clusters evolving in data streams, \textit{IEEE International Conference on Granular Computing}. HangZhou, China, 2008.
+        \item KaiKuo Xu, Chen Yu, \textbf{Yexi Jiang}, Rong Tang, Jie Gong, Chuan Li. \textbf{A Comparative Study of Correlation Measurements for Searching Similar Tags}. \textit{International Conference on Advanced Data Mining and Applications}. \textbf{(ADMA)}. Chengdu, China, October 8-10, 2008.
+    \end{enumerate}
+
+\section{\bfseries\Large Professional Services}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\
+External reviewer of International Conference on Data Mining (ICDM), 2011.\\
+    %\href{http://icdm2011.cs.ualberta.ca/downloads/ICDM2011_Booklet.pdf}
+External reviewer of International Conference on World Wide Web (WWW), 2011.\\
+    %\href{http://www.www2011india.com/proceeding/companion/reviewers.pdf}
+External reviewer of SIAM Conference on Data Mining (SDM), 2011.\\
+    %   link not found
+External reviewer of Web Intelligence and Intelligent Agent Technology (WI-IAT), 2011.\\
+    %\href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6040740&tag=1}
+%External reviewer of International World Wide Web Conference (WWW), 2011.\\
+External reviewer of International Conference on Information and Knowledge Management (CIKM), 2012.	\\
+External reviewer of International Conference on Data Mining (ICDM), 2012.\	 
+External reviewer of KDD Workshop on Cross Domain Knowledge Discovery in Web and Social Network Mining (KDD), 2012.	\\
+External reviewer of International Conference on Service Computing (SCC), 2012.	\\
+External reviewer of International Conference on Data Engineering (ICDE), 2013.	\\
+
+\section{\bfseries\Large Programming Skills}
+\hspace{-0.5in}\rule{16.8cm}{0.4pt}\\
+    \textbf{Programming Language:}\\ 
+		Proficiency in using \textit{Java(JDK, Apache Open Source Libraries, GWT, etc), C/C++(POSIX Multi-thread Programming, Socket Programming, STL, Boost, Protocol Buffer),
+		javascript(jQuery, Highcharts)};\\ 
+		Familiar with \textit{Python, PL/SQL} \\
+    \textbf{Database:} \textit{MySQL, Postgres SQL, MS SQL Server, MongoDB}   \\
+    \textbf{Tools:} \textit{MapReduce Platform, Vim, Eclipse, Visual Studio (C/C++)}, \LaTeX, JDKs, Subversion, Tomcat.  \\
+    \textbf{Operating System:} \textit{Linux and Windows}  \\
+\end{resume}
+\end{document} 
