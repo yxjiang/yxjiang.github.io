@@ -6,9 +6,8 @@ $(function(){
 	
 	$.getJSON('data/data.json', function(data){
 		
-		$("#map").append("<a href='http://www2.clustrmaps.com/counter/maps.php?url=http://users.cis.fiu.edu/~yjian004/' id='clustrMapsLink'><img src='http://www2.clustrmaps.com/counter/index2.php?url=http://users.cis.fiu.edu/~yjian004/' style='border:0px;' alt='Locations of visitors to this page' title='Locations of visitors to this page' id='clustrMapsImg' onerror='this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';' /></a>");
-		//$("#map").append("<noscript><a href='http://www.shinystat.com' ><img src='http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=yjian004' alt='Free web stats' border='0' /></a></noscript>");
-		//$("#map").append("<a href='http://www.statcounter.com/myspace/' rel='nofollow' target='_blank' title='visitors on myspace'><img alt='visitors on myspace' src='http://c.statcounter.com/5093529/0/42840782/0/'></a>");
+		$("#map").append("<div id='clustrmaps-widget'></div><script type='text/javascript'>var _clustrmaps = {'url' : 'http://yxjiang.github.io', 'user' : 1129751, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2014-01-26', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href='http://www2.clustrmaps.com/user/82d113d17'><img src='http://www2.clustrmaps.com/stats/maps-no_clusters/yxjiang.github.io-thumb.jpg' alt='Locations of visitors to this page' /></a></noscript>
+                                 ");
 		
 		//	initialize home, only show top 5 news
 		var news = data["news"];
