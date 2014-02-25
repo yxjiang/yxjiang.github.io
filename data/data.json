@@ -242,7 +242,7 @@
             "description": "Apache Maven is a software project management and comprehension tool.",
             "language": "Java"}
           ]},
-        {"category": "Useful Data Mining Tools",
+        {"category": "Useful Data Mining and Machine Learning Tools",
           "list": [
           {"title": "libsvm",
             "url": "http://www.csie.ntu.edu.tw/~cjlin/libsvm/",
@@ -261,6 +261,9 @@
             "link": [	
             {"category": "Useful Research Links",
               "list": [
+              {"title": "100 most popular machine learning talks",
+              "url": "http://blog.videolectures.net/100-most-popular-machine-learning-talks-at-videolectures-net/",
+              "description": "100 most popular machine learning talks on videolectures.org"},
               {"title": "Best paper repository (link from Jeff Huang's homepage)",
                 "url": "http://jeffhuang.com/best_paper_awards.html",
                 "description": "Best paper awards for AAAI, ACL, CHI, CIKM, FOCS, ICML, IJCAI, KDD, OSDI, SIGIR, SIGMOD, SOSP, STOC, UIST, VLDB, WWW."}
