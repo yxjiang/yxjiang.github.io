@@ -182,6 +182,10 @@
         "description": "This project aims at analyzing the Social Networks through a famous site 'http://del.cio.us'. We model the social network on 'delicious' as a kind of tripartite graph by treating 'tag', 'user' and 'URL' as three different kinds of nodes, and then we conduct the analysis on this heterogenous graph."}
       ]}
       ],
+      "services": {
+        "reviewer": ["IEEE Transactions on Knowledge and Data Engineering", "Knowledge and Information System"],
+      
+      },
 
         "codes": [
         {"category": "My Code <a href='https://github.com/yxjiang'><img id='github-logo' src='img/github-logo.png'></a>",
