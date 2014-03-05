@@ -82,9 +82,9 @@ $(function(){
     var services = data["services"]
     var reviewer = services["reviewer"]
     $("#services").append("<div id='reviewer'><ul id='review-list'></ul></div>");
-    $.each(reviewer, function(reviewer_index, reviewer_entry) {
+    //$.each(reviewer, function(reviewer_index, reviewer_entry) {
       //$("#review-list").append("<li>" + reviewer_entry + "</li>");
-    }
+    //}
 
     //	initialize code page
     var codes = data["codes"];
