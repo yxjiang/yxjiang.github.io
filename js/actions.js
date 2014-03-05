@@ -80,6 +80,7 @@ $(function(){
     });
 
     var services = data["services"]
+    alert(JSON.stringify(services));
     var reviewer = services["review"]
     $("#services").append("<div id='review'><ul id='review-list'></ul></div>");
     //$.each(reviewer, function(reviewer_index, reviewer_entry) {
