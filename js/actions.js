@@ -81,11 +81,11 @@ $(function(){
 
     var services = data["services"]
     var review = services["review"]
-    alert(JSON.stringify(review));
+    //alert(JSON.stringify(review));
     $("#services").append("<div id='review'><ul id='review-list'></ul></div>");
-    //$.each(reviewer, function(reviewer_index, reviewer_entry) {
+    $.each(review, function(reviewer_index, reviewer_entry) {
       //$("#review-list").append("<li>" + reviewer_entry + "</li>");
-    //}
+    }
 
     //	initialize code page
     var codes = data["codes"];
