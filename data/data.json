@@ -1,5 +1,6 @@
 {
   "news" :[
+  {"time": "2014.3", "description": "Elected as the PMC member of Apache Hama."},
   {"time": "2013.12", "description": "One paper about ad-hoc event summarization has been accepted by <a href='http://sdm-14.kesinternational.org/'>SDM 2014</a>."},
   {"time": "2013.12", "description": "Contributed the online learning version of multilayer perceptron to <a href='http://mahout.apache.org/'>Apache Mahout</a>. It will appear in the next major release. Please use it and give me comments/feedback/bug report :)"},
   {"time": "2013.12", "description": "Received the 2014 summer intenship offer from <a href='https://www.facebook.com'>Facebook</a>."},
