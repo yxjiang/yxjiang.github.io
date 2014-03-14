@@ -67,7 +67,7 @@ $(function(){
       var position = entry["position"];
       var time = entry["time"];
       var work = entry["work"];
-      $("#experience").append("<div id='industrial-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
+      $("#industrial-experience").append("<div id='industrial-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
       $("#industrial-experience-elem-" + index).append("<div id='experience-header" + index + "' class='experience-header'>" + time + "&nbsp;&nbsp;" + institution + "</div><br>");
 
       $.each(work, function(workIdx, content){
@@ -86,7 +86,7 @@ $(function(){
       var position = entry["position"];
       var time = entry["time"];
       var work = entry["work"];
-      $("#experience").append("<div id='academic-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
+      $("#academic-experience").append("<div id='academic-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
       $("#academic-experience-elem-" + index).append("<div id='experience-header" + index + "' class='experience-header'>" + time + "&nbsp;&nbsp;" + institution + "</div><br>");
 
       $.each(work, function(workIdx, content){
