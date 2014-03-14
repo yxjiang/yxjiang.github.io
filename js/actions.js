@@ -60,22 +60,22 @@ $(function(){
     });
 
     //	initialize experience page
-    var experience = data["experience"];
-    $.each(experience, function(index, entry){
+    var industrial = data["industrial"];
+    $.each(industrial, function(index, entry){
 
       var institution = entry["institution"];
       var position = entry["position"];
       var time = entry["time"];
       var work = entry["work"];
-      $("#experience").append("<div id='experience-elem-" + index + "' class='experience-elem'></div><br><br>");
-      $("#experience-elem-" + index).append("<div id='experience-header" + index + "' class='experience-header'>" + time + "&nbsp;&nbsp;" + institution + "</div><br>");
+      $("#experience").append("<div id='industrial-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
+      $("#industrial-experience-elem-" + index).append("<div id='experience-header" + index + "' class='experience-header'>" + time + "&nbsp;&nbsp;" + institution + "</div><br>");
 
       $.each(work, function(workIdx, content){
         var topic = content["topic"];
         var description = content["description"];
-        $("#experience-elem-" + index).append("<div class='experience-topic'><b>" + topic + "</b></div>");
-        $("#experience-elem-" + index).append("<div class='experience-description'>" + description + "</div>");
-        $("#experience-elem-" + index).append("<br>");
+        $("#industrial-experience-elem-" + index).append("<div class='experience-topic'><b>" + topic + "</b></div>");
+        $("#industrial-experience-elem-" + index).append("<div class='experience-description'>" + description + "</div>");
+        $("#industrial-experience-elem-" + index).append("<br>");
       });
     });
 
