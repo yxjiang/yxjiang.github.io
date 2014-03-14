@@ -1,290 +1,445 @@
 {
-  "news" :[
-  {"time": "2014.3", "description": "Elected as the PMC member of <a href='http://hama.apache.org'>Apache Hama</a>."},
-  {"time": "2013.12", "description": "One paper about ad-hoc event summarization has been accepted by <a href='http://sdm-14.kesinternational.org/'>SDM 2014</a>."},
-  {"time": "2013.12", "description": "Contributed the online learning version of multilayer perceptron to <a href='http://mahout.apache.org/'>Apache Mahout</a>. It will appear in the next major release. Please use it and give me comments/feedback/bug report :)"},
-  {"time": "2013.12", "description": "Received the 2014 summer intenship offer from <a href='https://www.facebook.com'>Facebook</a>."},
-  {"time": "2013.8", "description": "Finished the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."},
-  {"time": "2013.6", "description": "Voted as a committer at <a href='http://hama.apache.org'>Apache Hama</a> for my contribution to the distributed machine learning package."},
-  {"time": "2013.5", "description": "Start the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."},
-  {"time": "2013.5", "description": "One demo paper about distributed data mining systems has been accepted by KDD 2013." },
-  {"time": "2013.4", "description": "One paper about improving cloud service quality via resource prediction has been accepted by IEEE Transactions on Network and Service Management"},
-  {"time": "2013.3", "description": "One paper about dynamic query form has been accepted by IEEE Transactions on Knowledge and Data Engineering."},
-  {"time": "2012.11", "description": "Passed the PhD candidacy exam."},
-  {"time": "2012.8", "description": "Finished the internship at IBM T. J Watson Research Center."},
-  {"time": "2012.5", "description": "Start the internship at IBM T. J Watson Research Center."}
-  ],
-    "patent": [
-    {"patentname": "System and Method for Cloud Provisioning Accelerator",
-      "patentno": "US Patnet: 20,130,139,152",
-      "collaborator": "Charles Perng, Rong Chang, Hidayatullah Shaikh, Edward So, Tao Tao, Meir Laker",
-      "status": "filed"},
-    {"patentname": "System and Method for Constructing Semantic Dialog Driven Services and Products Discovery",
-      "patentno": "",
-      "collaborator": "Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalasi, Tao Tao",
-      "status": "filed"},
-    {"patentname": "System and Method for Complex Service Network Ranking and Clustering",
-      "patentno": "",
-      "collaborator": "Anca Sailer, Frank Schaffa, Ignacio Silva-Lepe, Tom Chefalas, Jim Laredo, Charles Perng, Tao Tao, Yang Zhou, Alla Segal",
-      "status": "filed"}
-  ],
-
-    "publication":[
-    {"byyear": 2014,
-      "publications": [
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li", 
-        "title": "META: Multi-resolution Framework for Event Summarization",
-        "url": "",
-        "source": "SIAM International Conference on Data Mining (SDM)",
-        "year": 2014}
-      ]},
-    {"byyear": 2013,
-      "publications": [
-      {"authors": "Chunqiu Zeng, Yexi Jiang, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
-        "title": "FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment",
-        "url": "./paper/kdd-2013-fiuminer.pdf",
-        "source": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Demo)",
-        "year": "2013"},
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
-        "title": "Cloud Analytics for Capacity Planning and Instant VM Provisioning",
-        "url": "./paper/TNSM-2013.pdf",
-        "source": "IEEE Transactions on Network and Service Management (TNSM)",
-        "year": 2013},
-      {"authors": "Liang Tang, Tao Li, Yexi Jiang, Zhiyuan Chen",
-        "title": "Dynamic Query Forms for Database Queries",
-        "url": "./paper/dqf_tkde_2013.pdf",
-        "source": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
-        "year": 2013}
-      ]},
-    { "byyear": 2012,
-      "publications": [
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
-        "title": "Self-adaptive Cloud Capacity Planning",
-        "url":"./paper/SCC2012-Capacity-Planning.pdf",
-        "source":"International Conference on Service Computing (SCC) (acceptance rate 18%)",
-        "year": 2012},
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
-        "title": "Intelligent Cloud Capacity Management",
-        "url":"./paper/Cloud-NOMS2012.pdf",
-        "source":"IEEE/IFIP Network Operations and Management Symposium (NOMS) (acceptance rate 26%)",
-        "year": 2012}
-      ]
-    },
-    { "byyear": 2011,
-      "publications": [
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
-        "title": "ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning",
-        "url": "./paper/ASAP-ICDM2011-short.pdf",
-        "source": "IEEE International Conference on Data Mining (ICDM) (acceptance rate 18%)",
-        "year": 2011}, 
-
-      {"authors": "Yexi Jiang, Chang-shing Perng, Tao Li",
-        "title": "Natural Event Summarization",
-        "url": "./paper/CIKM2011.pdf",
-        "source": "ACM Conference on Information and Knowledge Management (CIKM) (acceptance rate 15%)",
-        "year": 2011}
-      ]
-    },
-
-    { "byyear": "Before 2011",
-      "publications": [
-      {"authors": "Mingjie Tang, Weihang Wang, Yexi Jiang, Yuanchun Zhou, Jinyan Li, Peng Cui, Ying Liu and Baoping Yan",
-        "title": "Bird Bring Flues? Mining Frequent and High Weighted Cliques from Birds Migration Network",
-        "url": "./paper/DASFAA2010-birds.pdf",
-        "source": "Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
-        "year": 2010},
-
-      {"authors": "Kaikuo Xu, Changjie Tang, Chuan Li, Yexi Jiang, Rong Tang",
-        "title": "An MDL Approach to Efficiently Discover Communities in Bipartite Network",
-        "url": "./paper/DASFAA2010-MDL.pdf",
-        "source": "Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
-        "year": 2010},
-
-      {"authors": "Yexi Jiang, Changjie Tang, Kaikuo Xu, Yu Chen, Jie Gong, Liang Tang", 
-        "title": "CTSC: Core-Tag oriented Spectral Clustering Algorithm on Web2.0 Tags", 
-        "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5358541&tag=1", 
-        "source": "The International Conference on Fuzzy Systems and Knowledge Discovery (FSKD) ", 
-        "year": 2009},
-
-      {"authors": "Yexi Jiang, Changjie Tang, Kaikuo Xu, Lei Duan, Liang Tang, Jie Gong, Chuan Li",
-        "title": "Core-Tag Clustering for Web 2.0 based on Multi-Similarity Measurements", 
-        "url": "http://www.springerlink.com/content/u514jk2454734763/", 
-        "source": "The International Workshop on DataBase and Information Retrieval & Aspects in Evaluating Holistic Quality of Ontology-based Information Retrieval (APWeb-WAIM Workshop)", 
-        "year": 2009},
-
-      {"authors": "Liang Tang, Changjie Tang, Lei Duan Yexi Jiang",
-        "title": "SLICE: A Novel Method to Find Local Linear Correlations by Constructing Hyperplanes",
-        "url": "http://www.springerlink.com/content/f65322885828g782/",
-        "source": "The Joint International Conferences on Asia-Pacific Web Conference and Web-Age Information Management (ApWeb-WAIM)",
-        "year": 2009},
-
-      {"authors": "Kaikuo Xu, Yu Chen, Yexi Jiang, Rong Tang, Yintian Liu, Jie Gong",
-        "title": "A Comparative Study of Correlation Measurements for Searching Similar Tags",
-        "url": "http://www.springerlink.com/content/k5pph186570xw03x/",
-        "source": "International Conference on Advanced Data Mining and Applications(ADMA)",
-        "year": 2008},
-      {"authors": "Liang Tang, Chang-jie Tang, Lei Duan, Chuan Li, Yexi Jiang, Chunqiu Zeng, Jun Zhu",
-        "title": "MovStream: An Efficient Algorithm for Monitoring Clusters Evolving in Data Streams",
-        "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4664715",
-        "source": "IEEE International Conference on Granular Computing (GrC)",
-        "year": 2008}
-      ]
-    }
-  ],
-
-    “industrial”: [
-    {"institution": "IBM T.J Watson Research Center - Enterprise Cloud Engineering Group",
-      "position": "Summer Intern",
-      "time": "2013.6 - 2013.8",
-      "work": [
-      {"topic": "Ingelligent Server Configurator", "description": "Participating the design and implementation of an intelligent tool that leverages the data mining techniques to improve the efficiency for both the customers and server providers to conduct the server configuration. "}
-      ]},
-
-    {"institution": "IBM T.J Watson Research Center - Cloud Platform Technologies Group",
-      "position": "Summer Intern",
-      "time": "2012.5 - 2012.8",
-      "work": [
-      {"topic": "Cloud Services Marketplace", "description": "Participated in the design and development of a prototype project called Cloud Services Marketplace. The goal of this project is to provide an intelligent platform to facilitate the customers for service acquisition."}
-      ]},
-
-    {"institution": "IBM T.J Watson Research Center - Service Management Environment Group",
-      "position": "Summer Intern",
-      "time": "2011.5 - 2011.8",
-      "work": [
-      {"topic": "Intelligent Cloud Capacity Management", "description": "This project focused on cloud capacity prediction, one of the emerging problems by which the cloud service providers are concerned. We proposed an integrated solution of intelligent cloud capacity estimation for the IBM Smart Cloud Enterprise (SCE) to reduce the unnecessary energy consumption."},
-      {"topic": "Cloud Service Provisioning Demands Prediction", "description": "The promise of cloud computing is to provide computing resources instantly whenever they are needed. The state-of-the-art virtual machine (VM) provisioning technology can provision a VM in tens of minutes. This latency may be satisfiable for non-urgent jobs but it is unacceptable for jobs that need to scale out during computation. We designed an online temporal data mining system for modeling and predicting the cloud VM demand, then provision VMs in advance."}
-      ]},
-
-    
-
-    {"institution": "Microsoft Research Asia - Data Intelligence and Tools Group (DIT)",
-      "position": "Full-Time Intern",
-      "time": "2009.3-2009.7",
-      "work": [
-      {"topic": "Large-scale Usage Behavior Analysis for Office User", 
-        "description": "Developed a frequent sequence mining algorithm based on distributed system, and applied it to analyze the Office user behavior dataset to discover causal knowledge about the how different users use the Office software. The mining result is used to ameliorate the layout of the GUI of Office series software. In charge of implementation using C++ and parallel version of algorithm design."}
-      ]},
-{"institution": "FIU - Knowledge Discovery Research Group (KDRG)",
-      "position": "Research Assistant",
-      "time": "2010.8-Now",
-      "work": [
-      {"topic": "Distributed Real Time System Monitoring", "description": "This is an ongoing project. Its goal is to design and implement a tool to monitor the computer cluster in real time. It also aims to incorporate system analytics techniques to facilitate the system management. <a href='https://github.com/yxjiang/system-monitoring/wiki/Introduction'>Project Page at GitHub</a>"
+   "news":[
+      {
+         "time":"2014.3",
+         "description":"Elected as the PMC member of <a href='http://hama.apache.org'>Apache Hama</a>."
       },
-      {"topic": "System Event Summarization", "description": "This project focuses on facilitating the diagnosis of computer systems based on system logs summarization. We proposed a novel framework called Natural Event Summarization (NES) to summarizes the event log by capturing the temporal pattern among events. Given the system log, NES is able to discovery the multi-party relationships among events and facilitate the analytic tasks of the system administrators. <a href='http://users.cs.fiu.edu/~yjian004/paper/CIKM2011.pdf'>Paper</a>"},
-      {"topic": "Dynamic Query Form System", "description": "This project focuses on facilitating complicated query tasks for users. We proposed a query system that is convenient for non-expert user to query information from semi-structured data. The system is able to dynamically generate query form that satisfy the potential requirement of the users by inferencing the intention of the users during interaction. <a href='http://users.cs.fiu.edu/~yjian004/paper/dqf_tkde_2013.pdf'>Paper</a>"}
-      ]},
-    
-      ],
-      “academic”: {
-
-       {"institution": "Sichuan University - Database and Knowledge Engineering Lab (DBKE)",
-      "position": "Research Assistant",
-      "time": "2007.9 - 2010.6",
-      "work": [
-      {"topic": "Knowledge Discovery and Data Visualization of Serious Birth Defects", 
-        "description": "Research on discovery knowledge from the data of new-born (The real dataset got from all hospitals throughout China, spanned from 1986 to 1993) with birth defects, the works include: (1) Find out which reason cause a particular defect. (2) Find out possible way of decreasing the birth defect rate. (3) Visualize the data to enable the users understand the result more easily."}, 
-      {"topic": "WTSBMiner: Web Tag and Social Bookmark Miner", 
-        "description": "This project aims at analyzing the Social Networks through a famous site 'http://del.cio.us'. We model the social network on 'delicious' as a kind of tripartite graph by treating 'tag', 'user' and 'URL' as three different kinds of nodes, and then we conduct the analysis on this heterogenous graph."}
-      ]}
+      {
+         "time":"2013.12",
+         "description":"One paper about ad-hoc event summarization has been accepted by <a href='http://sdm-14.kesinternational.org/'>SDM 2014</a>."
       },
-      "services": {
-        "review": ["IEEE Transactions on Knowledge and Data Engineering", "Knowledge and Information System"]
-      
+      {
+         "time":"2013.12",
+         "description":"Contributed the online learning version of multilayer perceptron to <a href='http://mahout.apache.org/'>Apache Mahout</a>. It will appear in the next major release. Please use it and give me comments/feedback/bug report :)"
       },
-
-        "codes": [
-        {"category": "My Code <a href='https://github.com/yxjiang'><img id='github-logo' src='img/github-logo.png'></a>",
-          "list": [
-          {"title": "Machine Learning package of Apache Hama",
-            "url": "https://github.com/yxjiang/hama",
-            "description": "This is the mirror of the original repository on github. I am mainly working on the distributed machine learning package for Apache Hama, which is a distributed computing framework based on BSP. Hama is very suitable for large scale iterative algorithms that cannot be efficiently implemented on top of Hadoop .",
-            "language": "Java"},
-          {"title": "Real Time Distributed Monitoring System",
-            "url": "https://github.com/yxjiang/system-monitoring/wiki/Introduction",
-            "description": "Distributed Real Time Stream Monitoring System is an on going project. Its goal is to design and implement a distributed monitoring system to conduct the continuous monitoring over the computer clusters. This system is design to be in the master/slave mode with two types of slaves: the monitor and collector. The monitor is used to be deployed into the monitored computer node and the collector is used to gather the monitored data. Besides the monitoring, we also intend to add the stream continuous query and the data stream mining modules to the system.",
-            "language": "Java, Scala"},
-          {"title": "PDP Workflow Data Stat", 
-            "url": "http://datamining-node08.cs.fiu.edu/ComparisonStat/index.htm",
-            "description": "A simple web application to calcualte and show the comparative results of PDP data.",
-            "language": "Javascript, Java, PL/SQL"},
-          {"title": "Event Synthetic Data Generator",
-            "url": "http://users.cis.fiu.edu/~yjian004/source/events-gen.zip",
-            "description": "Events sequence data generator. This program is able to generate periodic and correlation patterns in structured format",
-            "language": "Java"}
-          ]},
-        {"category": "Open Source Projects",
-          "list": [
-          {"title": "Apache Hama",
-            "url": "http://hama.apache.org/",
-            "description": "Apache Hama is a distributed computing framework based on Bulk Synchronous Parallel computing techniques for massive scientific computations e.g., matrix, graph and network algorithms. It's a Top Level Project under the Apache Software Foundation.",
-            "language": "Java"},
-          {"title": "Apache Mahout",
-            "url": "http://mahout.apache.org/",
-            "description": "An Apache project to produce free implementations of distributed or otherwise scalable machine learning algorithms on the Hadoop platform.",
-            "language": "Java"},
-          {"title": "Storm",
-            "url": "https://github.com/nathanmarz/storm",
-            "description":"Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation.",
-            "language": "Java, Clojure"},
-          {"title": "zlib",
-            "url": "http://zlib.net/",
-            "description": "A Massively Spiffy Yet Delicately Unobtrusive Compression Library",
-            "language": "C"},
-          {"title": "matplotlib",
-            "url": "http://matplotlib.sourceforge.net/",
-            "description": "matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.",
-            "language": "python"},
-          {"title": "jQuery",
-            "url": "http://jquery.com/",
-            "description": "A powerful java script library, my homepage is written by jQuery.",
-            "language": "Javascript"},
-          {"title": "DWR",
-            "url": "http://directwebremoting.org/dwr/index.html",
-            "description": "DWR is a Java library that enables Java on the server and JavaScript in a browser to interact and call each other as simply as possible.",
-            "language": "Java, Javascript"},
-          {"title": "Boost",
-            "url": "http://www.boost.org/",
-            "description": "One of the most highly regarded and expertly designed C++ library projects in the world.",
-            "language": "C++"},
-          {"title": "Apache Maven",
-            "url": "http://maven.apache.org/",
-            "description": "Apache Maven is a software project management and comprehension tool.",
-            "language": "Java"}
-          ]},
-        {"category": "Useful Data Mining and Machine Learning Tools",
-          "list": [
-          {"title": "libsvm",
-            "url": "http://www.csie.ntu.edu.tw/~cjlin/libsvm/",
-            "description": "A popular SVM library.",
-            "language": "C,Java,Python"},
-          {"title": "weka",
-            "url": "http://www.cs.waikato.ac.nz/ml/weka/",
-            "description": "Useful data mining experiment platform.",
-            "language": "Java"},
-          {"title": "PCA library",
-            "url": "http://sourceforge.net/projects/pcaf/",
-            "description": "This C++ Library is meant to implement the Principle Component Analysis approach, which is widely used to analyze and forecast the movement of highly correlated commodity future market in quantitative finance. ",
-            "language": "C++"}
-          ]}
-          ],
-            "link": [	
-            {"category": "Useful Research Links",
-              "list": [
-              {"title": "100 most popular machine learning talks",
-              "url": "http://blog.videolectures.net/100-most-popular-machine-learning-talks-at-videolectures-net/",
-              "description": "100 most popular machine learning talks on videolectures.org"},
-              {"title": "Best paper repository (link from Jeff Huang's homepage)",
-                "url": "http://jeffhuang.com/best_paper_awards.html",
-                "description": "Best paper awards for AAAI, ACL, CHI, CIKM, FOCS, ICML, IJCAI, KDD, OSDI, SIGIR, SIGMOD, SOSP, STOC, UIST, VLDB, WWW."}
-              ]},
-            {"category": "Other interesting links",
-              "list": [
-              {"title": "NBA.com",
-                "url": "http://www.nba.com",
-                "description": "My favorite sports."},
-              {"title": "USLunchBox",
-                "url": "http://www.uslunchbox.com",
-                "description": "The practical project of our lab!"}
-              ]}
-              ]
+      {
+         "time":"2013.12",
+         "description":"Received the 2014 summer intenship offer from <a href='https://www.facebook.com'>Facebook</a>."
+      },
+      {
+         "time":"2013.8",
+         "description":"Finished the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."
+      },
+      {
+         "time":"2013.6",
+         "description":"Voted as a committer at <a href='http://hama.apache.org'>Apache Hama</a> for my contribution to the distributed machine learning package."
+      },
+      {
+         "time":"2013.5",
+         "description":"Start the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."
+      },
+      {
+         "time":"2013.5",
+         "description":"One demo paper about distributed data mining systems has been accepted by KDD 2013."
+      },
+      {
+         "time":"2013.4",
+         "description":"One paper about improving cloud service quality via resource prediction has been accepted by IEEE Transactions on Network and Service Management"
+      },
+      {
+         "time":"2013.3",
+         "description":"One paper about dynamic query form has been accepted by IEEE Transactions on Knowledge and Data Engineering."
+      },
+      {
+         "time":"2012.11",
+         "description":"Passed the PhD candidacy exam."
+      },
+      {
+         "time":"2012.8",
+         "description":"Finished the internship at IBM T. J Watson Research Center."
+      },
+      {
+         "time":"2012.5",
+         "description":"Start the internship at IBM T. J Watson Research Center."
+      }
+   ],
+   "patent":[
+      {
+         "patentname":"System and Method for Cloud Provisioning Accelerator",
+         "patentno":"US Patnet: 20,130,139,152",
+         "collaborator":"Charles Perng, Rong Chang, Hidayatullah Shaikh, Edward So, Tao Tao, Meir Laker",
+         "status":"filed"
+      },
+      {
+         "patentname":"System and Method for Constructing Semantic Dialog Driven Services and Products Discovery",
+         "patentno":"",
+         "collaborator":"Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalasi, Tao Tao",
+         "status":"filed"
+      },
+      {
+         "patentname":"System and Method for Complex Service Network Ranking and Clustering",
+         "patentno":"",
+         "collaborator":"Anca Sailer, Frank Schaffa, Ignacio Silva-Lepe, Tom Chefalas, Jim Laredo, Charles Perng, Tao Tao, Yang Zhou, Alla Segal",
+         "status":"filed"
+      }
+   ],
+   "publication":[
+      {
+         "byyear":2014,
+         "publications":[
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
+               "title":"META: Multi-resolution Framework for Event Summarization",
+               "url":"",
+               "source":"SIAM International Conference on Data Mining (SDM)",
+               "year":2014
+            }
+         ]
+      },
+      {
+         "byyear":2013,
+         "publications":[
+            {
+               "authors":"Chunqiu Zeng, Yexi Jiang, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
+               "title":"FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment",
+               "url":"./paper/kdd-2013-fiuminer.pdf",
+               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Demo)",
+               "year":"2013"
+            },
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
+               "title":"Cloud Analytics for Capacity Planning and Instant VM Provisioning",
+               "url":"./paper/TNSM-2013.pdf",
+               "source":"IEEE Transactions on Network and Service Management (TNSM)",
+               "year":2013
+            },
+            {
+               "authors":"Liang Tang, Tao Li, Yexi Jiang, Zhiyuan Chen",
+               "title":"Dynamic Query Forms for Database Queries",
+               "url":"./paper/dqf_tkde_2013.pdf",
+               "source":"IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+               "year":2013
+            }
+         ]
+      },
+      {
+         "byyear":2012,
+         "publications":[
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
+               "title":"Self-adaptive Cloud Capacity Planning",
+               "url":"./paper/SCC2012-Capacity-Planning.pdf",
+               "source":"International Conference on Service Computing (SCC) (acceptance rate 18%)",
+               "year":2012
+            },
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
+               "title":"Intelligent Cloud Capacity Management",
+               "url":"./paper/Cloud-NOMS2012.pdf",
+               "source":"IEEE/IFIP Network Operations and Management Symposium (NOMS) (acceptance rate 26%)",
+               "year":2012
+            }
+         ]
+      },
+      {
+         "byyear":2011,
+         "publications":[
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
+               "title":"ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning",
+               "url":"./paper/ASAP-ICDM2011-short.pdf",
+               "source":"IEEE International Conference on Data Mining (ICDM) (acceptance rate 18%)",
+               "year":2011
+            },
+            {
+               "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
+               "title":"Natural Event Summarization",
+               "url":"./paper/CIKM2011.pdf",
+               "source":"ACM Conference on Information and Knowledge Management (CIKM) (acceptance rate 15%)",
+               "year":2011
+            }
+         ]
+      },
+      {
+         "byyear":"Before 2011",
+         "publications":[
+            {
+               "authors":"Mingjie Tang, Weihang Wang, Yexi Jiang, Yuanchun Zhou, Jinyan Li, Peng Cui, Ying Liu and Baoping Yan",
+               "title":"Bird Bring Flues? Mining Frequent and High Weighted Cliques from Birds Migration Network",
+               "url":"./paper/DASFAA2010-birds.pdf",
+               "source":"Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
+               "year":2010
+            },
+            {
+               "authors":"Kaikuo Xu, Changjie Tang, Chuan Li, Yexi Jiang, Rong Tang",
+               "title":"An MDL Approach to Efficiently Discover Communities in Bipartite Network",
+               "url":"./paper/DASFAA2010-MDL.pdf",
+               "source":"Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
+               "year":2010
+            },
+            {
+               "authors":"Yexi Jiang, Changjie Tang, Kaikuo Xu, Yu Chen, Jie Gong, Liang Tang",
+               "title":"CTSC: Core-Tag oriented Spectral Clustering Algorithm on Web2.0 Tags",
+               "url":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5358541&tag=1",
+               "source":"The International Conference on Fuzzy Systems and Knowledge Discovery (FSKD) ",
+               "year":2009
+            },
+            {
+               "authors":"Yexi Jiang, Changjie Tang, Kaikuo Xu, Lei Duan, Liang Tang, Jie Gong, Chuan Li",
+               "title":"Core-Tag Clustering for Web 2.0 based on Multi-Similarity Measurements",
+               "url":"http://www.springerlink.com/content/u514jk2454734763/",
+               "source":"The International Workshop on DataBase and Information Retrieval & Aspects in Evaluating Holistic Quality of Ontology-based Information Retrieval (APWeb-WAIM Workshop)",
+               "year":2009
+            },
+            {
+               "authors":"Liang Tang, Changjie Tang, Lei Duan Yexi Jiang",
+               "title":"SLICE: A Novel Method to Find Local Linear Correlations by Constructing Hyperplanes",
+               "url":"http://www.springerlink.com/content/f65322885828g782/",
+               "source":"The Joint International Conferences on Asia-Pacific Web Conference and Web-Age Information Management (ApWeb-WAIM)",
+               "year":2009
+            },
+            {
+               "authors":"Kaikuo Xu, Yu Chen, Yexi Jiang, Rong Tang, Yintian Liu, Jie Gong",
+               "title":"A Comparative Study of Correlation Measurements for Searching Similar Tags",
+               "url":"http://www.springerlink.com/content/k5pph186570xw03x/",
+               "source":"International Conference on Advanced Data Mining and Applications(ADMA)",
+               "year":2008
+            },
+            {
+               "authors":"Liang Tang, Chang-jie Tang, Lei Duan, Chuan Li, Yexi Jiang, Chunqiu Zeng, Jun Zhu",
+               "title":"MovStream: An Efficient Algorithm for Monitoring Clusters Evolving in Data Streams",
+               "url":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4664715",
+               "source":"IEEE International Conference on Granular Computing (GrC)",
+               "year":2008
+            }
+         ]
+      }
+   ],
+   "industrial":[
+      {
+         "institution":"IBM T.J Watson Research Center - Enterprise Cloud Engineering Group",
+         "position":"Summer Intern",
+         "time":"2013.6 - 2013.8",
+         "work":[
+            {
+               "topic":"Ingelligent Server Configurator",
+               "description":"Participating the design and implementation of an intelligent tool that leverages the data mining techniques to improve the efficiency for both the customers and server providers to conduct the server configuration. "
+            }
+         ]
+      },
+      {
+         "institution":"IBM T.J Watson Research Center - Cloud Platform Technologies Group",
+         "position":"Summer Intern",
+         "time":"2012.5 - 2012.8",
+         "work":[
+            {
+               "topic":"Cloud Services Marketplace",
+               "description":"Participated in the design and development of a prototype project called Cloud Services Marketplace. The goal of this project is to provide an intelligent platform to facilitate the customers for service acquisition."
+            }
+         ]
+      },
+      {
+         "institution":"IBM T.J Watson Research Center - Service Management Environment Group",
+         "position":"Summer Intern",
+         "time":"2011.5 - 2011.8",
+         "work":[
+            {
+               "topic":"Intelligent Cloud Capacity Management",
+               "description":"This project focused on cloud capacity prediction, one of the emerging problems by which the cloud service providers are concerned. We proposed an integrated solution of intelligent cloud capacity estimation for the IBM Smart Cloud Enterprise (SCE) to reduce the unnecessary energy consumption."
+            },
+            {
+               "topic":"Cloud Service Provisioning Demands Prediction",
+               "description":"The promise of cloud computing is to provide computing resources instantly whenever they are needed. The state-of-the-art virtual machine (VM) provisioning technology can provision a VM in tens of minutes. This latency may be satisfiable for non-urgent jobs but it is unacceptable for jobs that need to scale out during computation. We designed an online temporal data mining system for modeling and predicting the cloud VM demand, then provision VMs in advance."
+            }
+         ]
+      },
+      {
+         "institution":"Microsoft Research Asia - Data Intelligence and Tools Group (DIT)",
+         "position":"Full-Time Intern",
+         "time":"2009.3-2009.7",
+         "work":[
+            {
+               "topic":"Large-scale Usage Behavior Analysis for Office User",
+               "description":"Developed a frequent sequence mining algorithm based on distributed system, and applied it to analyze the Office user behavior dataset to discover causal knowledge about the how different users use the Office software. The mining result is used to ameliorate the layout of the GUI of Office series software. In charge of implementation using C++ and parallel version of algorithm design."
+            }
+         ]
+      }
+   ],
+   "academic":[
+      {
+         "institution":"FIU - Knowledge Discovery Research Group (KDRG)",
+         "position":"Research Assistant",
+         "time":"2010.8-Now",
+         "work":[
+            {
+               "topic":"Distributed Real Time System Monitoring",
+               "description":"This is an ongoing project. Its goal is to design and implement a tool to monitor the computer cluster in real time. It also aims to incorporate system analytics techniques to facilitate the system management. <a href='https://github.com/yxjiang/system-monitoring/wiki/Introduction'>Project Page at GitHub</a>"
+            },
+            {
+               "topic":"System Event Summarization",
+               "description":"This project focuses on facilitating the diagnosis of computer systems based on system logs summarization. We proposed a novel framework called Natural Event Summarization (NES) to summarizes the event log by capturing the temporal pattern among events. Given the system log, NES is able to discovery the multi-party relationships among events and facilitate the analytic tasks of the system administrators. <a href='http://users.cs.fiu.edu/~yjian004/paper/CIKM2011.pdf'>Paper</a>"
+            },
+            {
+               "topic":"Dynamic Query Form System",
+               "description":"This project focuses on facilitating complicated query tasks for users. We proposed a query system that is convenient for non-expert user to query information from semi-structured data. The system is able to dynamically generate query form that satisfy the potential requirement of the users by inferencing the intention of the users during interaction. <a href='http://users.cs.fiu.edu/~yjian004/paper/dqf_tkde_2013.pdf'>Paper</a>"
+            }
+         ]
+      },
+      {
+         "institution":"Sichuan University - Database and Knowledge Engineering Lab (DBKE)",
+         "position":"Research Assistant",
+         "time":"2007.9 - 2010.6",
+         "work":[
+            {
+               "topic":"Knowledge Discovery and Data Visualization of Serious Birth Defects",
+               "description":"Research on discovery knowledge from the data of new-born (The real dataset got from all hospitals throughout China, spanned from 1986 to 1993) with birth defects, the works include: (1) Find out which reason cause a particular defect. (2) Find out possible way of decreasing the birth defect rate. (3) Visualize the data to enable the users understand the result more easily."
+            },
+            {
+               "topic":"WTSBMiner: Web Tag and Social Bookmark Miner",
+               "description":"This project aims at analyzing the Social Networks through a famous site 'http://del.cio.us'. We model the social network on 'delicious' as a kind of tripartite graph by treating 'tag', 'user' and 'URL' as three different kinds of nodes, and then we conduct the analysis on this heterogenous graph."
+            }
+         ]
+      }
+   ],
+   "services":{
+      "review":[
+         "IEEE Transactions on Knowledge and Data Engineering",
+         "Knowledge and Information System"
+      ]
+   },
+   "codes":[
+      {
+         "category":"My Code <a href='https://github.com/yxjiang'><img id='github-logo' src='img/github-logo.png'></a>",
+         "list":[
+            {
+               "title":"Machine Learning package of Apache Hama",
+               "url":"https://github.com/yxjiang/hama",
+               "description":"This is the mirror of the original repository on github. I am mainly working on the distributed machine learning package for Apache Hama, which is a distributed computing framework based on BSP. Hama is very suitable for large scale iterative algorithms that cannot be efficiently implemented on top of Hadoop .",
+               "language":"Java"
+            },
+            {
+               "title":"Real Time Distributed Monitoring System",
+               "url":"https://github.com/yxjiang/system-monitoring/wiki/Introduction",
+               "description":"Distributed Real Time Stream Monitoring System is an on going project. Its goal is to design and implement a distributed monitoring system to conduct the continuous monitoring over the computer clusters. This system is design to be in the master/slave mode with two types of slaves: the monitor and collector. The monitor is used to be deployed into the monitored computer node and the collector is used to gather the monitored data. Besides the monitoring, we also intend to add the stream continuous query and the data stream mining modules to the system.",
+               "language":"Java, Scala"
+            },
+            {
+               "title":"PDP Workflow Data Stat",
+               "url":"http://datamining-node08.cs.fiu.edu/ComparisonStat/index.htm",
+               "description":"A simple web application to calcualte and show the comparative results of PDP data.",
+               "language":"Javascript, Java, PL/SQL"
+            },
+            {
+               "title":"Event Synthetic Data Generator",
+               "url":"http://users.cis.fiu.edu/~yjian004/source/events-gen.zip",
+               "description":"Events sequence data generator. This program is able to generate periodic and correlation patterns in structured format",
+               "language":"Java"
+            }
+         ]
+      },
+      {
+         "category":"Open Source Projects",
+         "list":[
+            {
+               "title":"Apache Hama",
+               "url":"http://hama.apache.org/",
+               "description":"Apache Hama is a distributed computing framework based on Bulk Synchronous Parallel computing techniques for massive scientific computations e.g., matrix, graph and network algorithms. It's a Top Level Project under the Apache Software Foundation.",
+               "language":"Java"
+            },
+            {
+               "title":"Apache Mahout",
+               "url":"http://mahout.apache.org/",
+               "description":"An Apache project to produce free implementations of distributed or otherwise scalable machine learning algorithms on the Hadoop platform.",
+               "language":"Java"
+            },
+            {
+               "title":"Storm",
+               "url":"https://github.com/nathanmarz/storm",
+               "description":"Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation.",
+               "language":"Java, Clojure"
+            },
+            {
+               "title":"zlib",
+               "url":"http://zlib.net/",
+               "description":"A Massively Spiffy Yet Delicately Unobtrusive Compression Library",
+               "language":"C"
+            },
+            {
+               "title":"matplotlib",
+               "url":"http://matplotlib.sourceforge.net/",
+               "description":"matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.",
+               "language":"python"
+            },
+            {
+               "title":"jQuery",
+               "url":"http://jquery.com/",
+               "description":"A powerful java script library, my homepage is written by jQuery.",
+               "language":"Javascript"
+            },
+            {
+               "title":"DWR",
+               "url":"http://directwebremoting.org/dwr/index.html",
+               "description":"DWR is a Java library that enables Java on the server and JavaScript in a browser to interact and call each other as simply as possible.",
+               "language":"Java, Javascript"
+            },
+            {
+               "title":"Boost",
+               "url":"http://www.boost.org/",
+               "description":"One of the most highly regarded and expertly designed C++ library projects in the world.",
+               "language":"C++"
+            },
+            {
+               "title":"Apache Maven",
+               "url":"http://maven.apache.org/",
+               "description":"Apache Maven is a software project management and comprehension tool.",
+               "language":"Java"
+            }
+         ]
+      },
+      {
+         "category":"Useful Data Mining and Machine Learning Tools",
+         "list":[
+            {
+               "title":"libsvm",
+               "url":"http://www.csie.ntu.edu.tw/~cjlin/libsvm/",
+               "description":"A popular SVM library.",
+               "language":"C,Java,Python"
+            },
+            {
+               "title":"weka",
+               "url":"http://www.cs.waikato.ac.nz/ml/weka/",
+               "description":"Useful data mining experiment platform.",
+               "language":"Java"
+            },
+            {
+               "title":"PCA library",
+               "url":"http://sourceforge.net/projects/pcaf/",
+               "description":"This C++ Library is meant to implement the Principle Component Analysis approach, which is widely used to analyze and forecast the movement of highly correlated commodity future market in quantitative finance. ",
+               "language":"C++"
+            }
+         ]
+      }
+   ],
+   "link":[
+      {
+         "category":"Useful Research Links",
+         "list":[
+            {
+               "title":"100 most popular machine learning talks",
+               "url":"http://blog.videolectures.net/100-most-popular-machine-learning-talks-at-videolectures-net/",
+               "description":"100 most popular machine learning talks on videolectures.org"
+            },
+            {
+               "title":"Best paper repository (link from Jeff Huang's homepage)",
+               "url":"http://jeffhuang.com/best_paper_awards.html",
+               "description":"Best paper awards for AAAI, ACL, CHI, CIKM, FOCS, ICML, IJCAI, KDD, OSDI, SIGIR, SIGMOD, SOSP, STOC, UIST, VLDB, WWW."
+            }
+         ]
+      },
+      {
+         "category":"Other interesting links",
+         "list":[
+            {
+               "title":"NBA.com",
+               "url":"http://www.nba.com",
+               "description":"My favorite sports."
+            },
+            {
+               "title":"USLunchBox",
+               "url":"http://www.uslunchbox.com",
+               "description":"The practical project of our lab!"
+            }
+         ]
+      }
+   ]
 }
