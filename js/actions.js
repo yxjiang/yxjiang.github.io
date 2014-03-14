@@ -79,6 +79,26 @@ $(function(){
       });
     });
 
+    var academic = data["academic"];
+    $.each(academic, function(index, entry){
+
+      var institution = entry["institution"];
+      var position = entry["position"];
+      var time = entry["time"];
+      var work = entry["work"];
+      $("#experience").append("<div id='academic-experience-elem-" + index + "' class='experience-elem'></div><br><br>");
+      $("#academic-experience-elem-" + index).append("<div id='experience-header" + index + "' class='experience-header'>" + time + "&nbsp;&nbsp;" + institution + "</div><br>");
+
+      $.each(work, function(workIdx, content){
+        var topic = content["topic"];
+        var description = content["description"];
+        $("#academic-experience-elem-" + index).append("<div class='experience-topic'><b>" + topic + "</b></div>");
+        $("#academic-experience-elem-" + index).append("<div class='experience-description'>" + description + "</div>");
+        $("#academic-experience-elem-" + index).append("<br>");
+      });
+    });
+
+
     var services = data["services"]
     var review = services["review"]
     $("#services").append("Reviewer");
