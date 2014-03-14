@@ -155,34 +155,15 @@
       {"topic": "Cloud Service Provisioning Demands Prediction", "description": "The promise of cloud computing is to provide computing resources instantly whenever they are needed. The state-of-the-art virtual machine (VM) provisioning technology can provision a VM in tens of minutes. This latency may be satisfiable for non-urgent jobs but it is unacceptable for jobs that need to scale out during computation. We designed an online temporal data mining system for modeling and predicting the cloud VM demand, then provision VMs in advance."}
       ]},
 
-    {"institution": "FIU - Knowledge Discovery Research Group (KDRG)",
-      "position": "Research Assistant",
-      "time": "2010.8-Now",
-      "work": [
-      {"topic": "Distributed Real Time System Monitoring", "description": "This is an ongoing project. Its goal is to design and implement a tool to monitor the computer cluster in real time. It also aims to incorporate system analytics techniques to facilitate the system management. <a href='https://github.com/yxjiang/system-monitoring/wiki/Introduction'>Project Page at GitHub</a>"
-      },
-      {"topic": "System Event Summarization", "description": "This project focuses on facilitating the diagnosis of computer systems based on system logs summarization. We proposed a novel framework called Natural Event Summarization (NES) to summarizes the event log by capturing the temporal pattern among events. Given the system log, NES is able to discovery the multi-party relationships among events and facilitate the analytic tasks of the system administrators. <a href='http://users.cs.fiu.edu/~yjian004/paper/CIKM2011.pdf'>Paper</a>"},
-      {"topic": "Dynamic Query Form System", "description": "This project focuses on facilitating complicated query tasks for users. We proposed a query system that is convenient for non-expert user to query information from semi-structured data. The system is able to dynamically generate query form that satisfy the potential requirement of the users by inferencing the intention of the users during interaction. <a href='http://users.cs.fiu.edu/~yjian004/paper/dqf_tkde_2013.pdf'>Paper</a>"}
-      ]},
-
     {"institution": "Microsoft Research Asia - Data Intelligence and Tools Group (DIT)",
       "position": "Full-Time Intern",
       "time": "2009.3-2009.7",
       "work": [
       {"topic": "Large-scale Usage Behavior Analysis for Office User", 
         "description": "Developed a frequent sequence mining algorithm based on distributed system, and applied it to analyze the Office user behavior dataset to discover causal knowledge about the how different users use the Office software. The mining result is used to ameliorate the layout of the GUI of Office series software. In charge of implementation using C++ and parallel version of algorithm design."}
-      ]},
-
-    {"institution": "Sichuan University - Database and Knowledge Engineering Lab (DBKE)",
-      "position": "Research Assistant",
-      "time": "2007.9 - 2010.6",
-      "work": [
-      {"topic": "Knowledge Discovery and Data Visualization of Serious Birth Defects", 
-        "description": "Research on discovery knowledge from the data of new-born (The real dataset got from all hospitals throughout China, spanned from 1986 to 1993) with birth defects, the works include: (1) Find out which reason cause a particular defect. (2) Find out possible way of decreasing the birth defect rate. (3) Visualize the data to enable the users understand the result more easily."}, 
-      {"topic": "WTSBMiner: Web Tag and Social Bookmark Miner", 
-        "description": "This project aims at analyzing the Social Networks through a famous site 'http://del.cio.us'. We model the social network on 'delicious' as a kind of tripartite graph by treating 'tag', 'user' and 'URL' as three different kinds of nodes, and then we conduct the analysis on this heterogenous graph."}
       ]}
-      ],
+
+    ],
       "services": {
         "review": ["IEEE Transactions on Knowledge and Data Engineering", "Knowledge and Information System"]
       
