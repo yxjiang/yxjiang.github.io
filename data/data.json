@@ -207,7 +207,7 @@
    ],
    "industrial":[
       {
-         "institution":"IBM T.J Watson Research Center - Enterprise Cloud Engineering Group",
+         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Enterprise Cloud Engineering Group",
          "position":"Summer Intern",
          "time":"2013.6 - 2013.8",
          "work":[
@@ -218,7 +218,7 @@
          ]
       },
       {
-         "institution":"IBM T.J Watson Research Center - Cloud Platform Technologies Group",
+         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Cloud Platform Technologies Group",
          "position":"Summer Intern",
          "time":"2012.5 - 2012.8",
          "work":[
@@ -229,7 +229,7 @@
          ]
       },
       {
-         "institution":"IBM T.J Watson Research Center - Service Management Environment Group",
+         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Service Management Environment Group",
          "position":"Summer Intern",
          "time":"2011.5 - 2011.8",
          "work":[
@@ -244,7 +244,7 @@
          ]
       },
       {
-         "institution":"Microsoft Research Asia - Data Intelligence and Tools Group (DIT)",
+         "institution":"<a href='http://research.microsoft.com/en-us/labs/asia/'>Microsoft Research Asia</a> - Data Intelligence and Tools Group (DIT)",
          "position":"Full-Time Intern",
          "time":"2009.3-2009.7",
          "work":[
