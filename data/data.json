@@ -2,31 +2,31 @@
    "news":[
       {
          "time":"2014.3",
-         "description":"Elected as the PMC member of <a href='http://hama.apache.org'>Apache Hama</a>."
+         "description":"Elected as the PMC member of <a href='http://hama.apache.org' target='_blank'>Apache Hama</a>."
       },
       {
          "time":"2013.12",
-         "description":"One paper about ad-hoc event summarization has been accepted by <a href='http://sdm-14.kesinternational.org/'>SDM 2014</a>."
+         "description":"One paper about ad-hoc event summarization has been accepted by <a href='http://sdm-14.kesinternational.org/' target='_blank'>SDM 2014</a>."
       },
       {
          "time":"2013.12",
-         "description":"Contributed the online learning version of multilayer perceptron to <a href='http://mahout.apache.org/'>Apache Mahout</a>. It will appear in the next major release. Please use it and give me comments/feedback/bug report :)"
+         "description":"Contributed the online learning version of multilayer perceptron to <a href='http://mahout.apache.org/' target='_blank'>Apache Mahout</a>. It will appear in the next major release. Please use it and give me comments/feedback/bug report :)"
       },
       {
          "time":"2013.12",
-         "description":"Received the 2014 summer intenship offer from <a href='https://www.facebook.com'>Facebook</a>."
+         "description":"Received the 2014 summer intenship offer from <a href='https://www.facebook.com' target='_blank'>Facebook</a>."
       },
       {
          "time":"2013.8",
-         "description":"Finished the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."
+         "description":"Finished the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml' target='_blank'>IBM T. J Watson Research Center</a>."
       },
       {
          "time":"2013.6",
-         "description":"Voted as a committer at <a href='http://hama.apache.org'>Apache Hama</a> for my contribution to the distributed machine learning package."
+         "description":"Voted as a committer at <a href='http://hama.apache.org' target='_blank'>Apache Hama</a> for my contribution to the distributed machine learning package."
       },
       {
          "time":"2013.5",
-         "description":"Start the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml'>IBM T. J Watson Research Center</a>."
+         "description":"Start the internship at <a href='http://www.research.ibm.com/labs/watson/index.shtml' target='_blank'>IBM T. J Watson Research Center</a>."
       },
       {
          "time":"2013.5",
@@ -63,7 +63,7 @@
       {
          "patentname":"System and Method for Constructing Semantic Dialog Driven Services and Products Discovery",
          "patentno":"",
-         "collaborator":"Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalasi, Tao Tao",
+         "collaborator":"Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao",
          "status":"filed"
       },
       {
@@ -207,7 +207,7 @@
    ],
    "industrial":[
       {
-         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Enterprise Cloud Engineering Group",
+         "institution":"<a href='http://www.research.ibm.com/' target='_blank'>IBM T.J Watson Research Center</a> - Enterprise Cloud Engineering Group",
          "position":"Summer Intern",
          "time":"2013.6 - 2013.8",
          "work":[
@@ -218,7 +218,7 @@
          ]
       },
       {
-         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Cloud Platform Technologies Group",
+         "institution":"<a href='http://www.research.ibm.com/' target='_blank'>IBM T.J Watson Research Center</a> - Cloud Platform Technologies Group",
          "position":"Summer Intern",
          "time":"2012.5 - 2012.8",
          "work":[
@@ -229,7 +229,7 @@
          ]
       },
       {
-         "institution":"<a href='http://www.research.ibm.com/'>IBM T.J Watson Research Center</a> - Service Management Environment Group",
+         "institution":"<a href='http://www.research.ibm.com/' target='_blank'>IBM T.J Watson Research Center</a> - Service Management Environment Group",
          "position":"Summer Intern",
          "time":"2011.5 - 2011.8",
          "work":[
@@ -244,7 +244,7 @@
          ]
       },
       {
-         "institution":"<a href='http://research.microsoft.com/en-us/labs/asia/'>Microsoft Research Asia</a> - Data Intelligence and Tools Group (DIT)",
+         "institution":"<a href='http://research.microsoft.com/en-us/labs/asia/' target='_blank'>Microsoft Research Asia</a> - Data Intelligence and Tools Group (DIT)",
          "position":"Full-Time Intern",
          "time":"2009.3-2009.7",
          "work":[
