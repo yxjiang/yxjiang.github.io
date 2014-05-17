@@ -206,6 +206,18 @@
       }
    ],
    "industrial":[
+			{
+         "institution":"<a href='http://www.facebook.com/' target='_blank'>Facebook Inc</a> - News Feed Ranking Team",
+         "position":"Summer Intern",
+         "time":"2014.5 - 2014.8",
+         "work":[
+            {
+               "topic":"News Feed Ranking",
+               "description":"Working on news feed ranking algorithm design and system implementation."
+            }
+         ]
+      },
+
       {
          "institution":"<a href='http://www.research.ibm.com/' target='_blank'>IBM T.J Watson Research Center</a> - Enterprise Cloud Engineering Group",
          "position":"Summer Intern",
