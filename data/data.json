@@ -104,19 +104,20 @@
          "byyear":2013,
          "publications":[
             {
-               "authors":"Chunqiu Zeng, Yexi Jiang, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
-               "title":"FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment",
-               "url":"./paper/kdd-2013-fiuminer.pdf",
-               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Demo)",
-               "year":"2013"
-            },
-            {
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"Cloud Analytics for Capacity Planning and Instant VM Provisioning",
                "url":"./paper/TNSM-2013.pdf",
                "source":"IEEE Transactions on Network and Service Management (TNSM)",
                "year":2013
             },
+						{
+               "authors":"Chunqiu Zeng, Yexi Jiang, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
+               "title":"FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment",
+               "url":"./paper/kdd-2013-fiuminer.pdf",
+               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Demo)",
+               "year":"2013"
+            },
+
             {
                "authors":"Liang Tang, Tao Li, Yexi Jiang, Zhiyuan Chen",
                "title":"Dynamic Query Forms for Database Queries",
