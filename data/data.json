@@ -77,11 +77,25 @@
       {
          "byyear":2014,
          "publications":[
-            {
+						{
+               "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
+               "title":"Ensemble Contextual Bandits for Personalized Recommendation",
+               "url":"",
+               "source":"ACM Conference on Recommender Systems",
+               "year":2014
+            },
+						{
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
                "title":"META: Multi-resolution Framework for Event Summarization",
                "url":"./paper/sdm14_eventsumframework.pdf",
                "source":"SIAM International Conference on Data Mining (SDM)",
+               "year":2014
+            },
+            {
+               "authors":"Li Zheng, Chunqiu Zeng, Lei Li, Yexi Jiang, Wei Xue, Jingxuan Li, Shen Chao, Wubai Zhou, Hongtai Li, Liang Tang, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
+               "title":"Applying Data Mining Techniques to Address Critical Process Optimization Needs in Advanced Manufacturing",
+               "url":"",
+               "source":"ACM Conference on Knowledge Discovery and Data Mining",
                "year":2014
             }
          ]
