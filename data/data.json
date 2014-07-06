@@ -81,7 +81,7 @@
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
                "title":"Ensemble Contextual Bandits for Personalized Recommendation",
                "url":"",
-               "source":"ACM Conference on Recommender Systems",
+               "source":"ACM Conference on Recommender Systems (RecSys)",
                "year":2014
             },
 						{
@@ -95,7 +95,7 @@
                "authors":"Li Zheng, Chunqiu Zeng, Lei Li, Yexi Jiang, Wei Xue, Jingxuan Li, Shen Chao, Wubai Zhou, Hongtai Li, Liang Tang, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
                "title":"Applying Data Mining Techniques to Address Critical Process Optimization Needs in Advanced Manufacturing",
                "url":"",
-               "source":"ACM Conference on Knowledge Discovery and Data Mining",
+               "source":"ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)",
                "year":2014
             }
          ]
