@@ -89,7 +89,7 @@
 						   "authors":"Yexi Jiang, Chunqiu Zeng, Jian Xu, Tao Li",
                "title":"Real time contextual collective anomaly detection over multiple data streams",
                "url":"",
-               "source":"ACM Conference on Recommender Systems (RecSys)",
+               "source":"ACM SIGKDD Workshop Outlier Detection & Description under Data Diversity (<b>KDD Workshop ODD^2</b>)",
                "year":2014
 
 						},
@@ -97,21 +97,21 @@
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
                "title":"Ensemble Contextual Bandits for Personalized Recommendation",
                "url":"",
-               "source":"ACM Conference on Recommender Systems (RecSys)",
+               "source":"ACM Conference on Recommender Systems (<b>RecSys</b>)",
                "year":2014
             },
 						{
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
                "title":"META: Multi-resolution Framework for Event Summarization",
                "url":"./paper/sdm14_eventsumframework.pdf",
-               "source":"SIAM International Conference on Data Mining (SDM)",
+               "source":"SIAM International Conference on Data Mining (<b>SDM</b>)",
                "year":2014
             },
             {
                "authors":"Li Zheng, Chunqiu Zeng, Lei Li, Yexi Jiang, Wei Xue, Jingxuan Li, Shen Chao, Wubai Zhou, Hongtai Li, Liang Tang, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
                "title":"Applying Data Mining Techniques to Address Critical Process Optimization Needs in Advanced Manufacturing",
                "url":"",
-               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)",
+               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>SIGKDD</b>)",
                "year":2014
             }
          ]
@@ -123,14 +123,14 @@
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"Cloud Analytics for Capacity Planning and Instant VM Provisioning",
                "url":"./paper/TNSM-2013.pdf",
-               "source":"IEEE Transactions on Network and Service Management (TNSM)",
+               "source":"IEEE Transactions on Network and Service Management (<b>TNSM</b>)",
                "year":2013
             },
 						{
                "authors":"Chunqiu Zeng, Yexi Jiang, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang",
                "title":"FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment",
                "url":"./paper/kdd-2013-fiuminer.pdf",
-               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD Demo)",
+               "source":"ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD Demo</b>)",
                "year":"2013"
             },
 
@@ -138,7 +138,7 @@
                "authors":"Liang Tang, Tao Li, Yexi Jiang, Zhiyuan Chen",
                "title":"Dynamic Query Forms for Database Queries",
                "url":"./paper/dqf_tkde_2013.pdf",
-               "source":"IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+               "source":"IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)",
                "year":2013
             }
          ]
@@ -150,14 +150,14 @@
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"Self-adaptive Cloud Capacity Planning",
                "url":"./paper/SCC2012-Capacity-Planning.pdf",
-               "source":"International Conference on Service Computing (SCC) (acceptance rate 18%)",
+               "source":"International Conference on Service Computing (<b>SCC</b>)",
                "year":2012
             },
             {
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"Intelligent Cloud Capacity Management",
                "url":"./paper/Cloud-NOMS2012.pdf",
-               "source":"IEEE/IFIP Network Operations and Management Symposium (NOMS) (acceptance rate 26%)",
+               "source":"IEEE/IFIP Network Operations and Management Symposium (<b>NOMS</b>) (acceptance rate 26%)",
                "year":2012
             }
          ]
