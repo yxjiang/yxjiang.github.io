@@ -157,7 +157,7 @@
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"Intelligent Cloud Capacity Management",
                "url":"./paper/Cloud-NOMS2012.pdf",
-               "source":"IEEE/IFIP Network Operations and Management Symposium (<b>NOMS</b>) (acceptance rate 26%)",
+               "source":"IEEE/IFIP Network Operations and Management Symposium (<b>NOMS</b>)",
                "year":2012
             }
          ]
@@ -169,14 +169,14 @@
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li, Rong Chang",
                "title":"ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning",
                "url":"./paper/ASAP-ICDM2011-short.pdf",
-               "source":"IEEE International Conference on Data Mining (ICDM) (acceptance rate 18%)",
+               "source":"IEEE International Conference on Data Mining (<b>ICDM</b>)",
                "year":2011
             },
             {
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
                "title":"Natural Event Summarization",
                "url":"./paper/CIKM2011.pdf",
-               "source":"ACM Conference on Information and Knowledge Management (CIKM) (acceptance rate 15%)",
+               "source":"ACM Conference on Information and Knowledge Management (<b>CIKM</b>)",
                "year":2011
             }
          ]
@@ -188,49 +188,49 @@
                "authors":"Mingjie Tang, Weihang Wang, Yexi Jiang, Yuanchun Zhou, Jinyan Li, Peng Cui, Ying Liu and Baoping Yan",
                "title":"Bird Bring Flues? Mining Frequent and High Weighted Cliques from Birds Migration Network",
                "url":"./paper/DASFAA2010-birds.pdf",
-               "source":"Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
+               "source":"Database System for Advanced Application (<b>DASFAA</b>)",
                "year":2010
             },
             {
                "authors":"Kaikuo Xu, Changjie Tang, Chuan Li, Yexi Jiang, Rong Tang",
                "title":"An MDL Approach to Efficiently Discover Communities in Bipartite Network",
                "url":"./paper/DASFAA2010-MDL.pdf",
-               "source":"Database System for Advanced Application (DASFAA) (acceptance rate 23%)",
+               "source":"Database System for Advanced Application (<b>DASFAA</b>)",
                "year":2010
             },
             {
                "authors":"Yexi Jiang, Changjie Tang, Kaikuo Xu, Yu Chen, Jie Gong, Liang Tang",
                "title":"CTSC: Core-Tag oriented Spectral Clustering Algorithm on Web2.0 Tags",
                "url":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5358541&tag=1",
-               "source":"The International Conference on Fuzzy Systems and Knowledge Discovery (FSKD) ",
+               "source":"The International Conference on Fuzzy Systems and Knowledge Discovery (<b>FSKD</b>) ",
                "year":2009
             },
             {
                "authors":"Yexi Jiang, Changjie Tang, Kaikuo Xu, Lei Duan, Liang Tang, Jie Gong, Chuan Li",
                "title":"Core-Tag Clustering for Web 2.0 based on Multi-Similarity Measurements",
                "url":"http://www.springerlink.com/content/u514jk2454734763/",
-               "source":"The International Workshop on DataBase and Information Retrieval & Aspects in Evaluating Holistic Quality of Ontology-based Information Retrieval (APWeb-WAIM Workshop)",
+               "source":"The International Workshop on DataBase and Information Retrieval & Aspects in Evaluating Holistic Quality of Ontology-based Information Retrieval (<b>APWeb-WAIM Workshop</b>)",
                "year":2009
             },
             {
                "authors":"Liang Tang, Changjie Tang, Lei Duan Yexi Jiang",
                "title":"SLICE: A Novel Method to Find Local Linear Correlations by Constructing Hyperplanes",
                "url":"http://www.springerlink.com/content/f65322885828g782/",
-               "source":"The Joint International Conferences on Asia-Pacific Web Conference and Web-Age Information Management (ApWeb-WAIM)",
+               "source":"The Joint International Conferences on Asia-Pacific Web Conference and Web-Age Information Management (<b>ApWeb-WAIM</b>)",
                "year":2009
             },
             {
                "authors":"Kaikuo Xu, Yu Chen, Yexi Jiang, Rong Tang, Yintian Liu, Jie Gong",
                "title":"A Comparative Study of Correlation Measurements for Searching Similar Tags",
                "url":"http://www.springerlink.com/content/k5pph186570xw03x/",
-               "source":"International Conference on Advanced Data Mining and Applications(ADMA)",
+               "source":"International Conference on Advanced Data Mining and Applications(<b>ADMA</b>)",
                "year":2008
             },
             {
                "authors":"Liang Tang, Chang-jie Tang, Lei Duan, Chuan Li, Yexi Jiang, Chunqiu Zeng, Jun Zhu",
                "title":"MovStream: An Efficient Algorithm for Monitoring Clusters Evolving in Data Streams",
                "url":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4664715",
-               "source":"IEEE International Conference on Granular Computing (GrC)",
+               "source":"IEEE International Conference on Granular Computing (<b>GrC</b>)",
                "year":2008
             }
          ]
