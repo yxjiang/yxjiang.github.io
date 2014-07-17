@@ -86,6 +86,14 @@
          "byyear":2014,
          "publications":[
 						{
+						   "authors":"Yexi Jiang, Chunqiu Zeng, Jian Xu, Tao Li",
+               "title":"Real time contextual collective anomaly detection over multiple data streams",
+               "url":"",
+               "source":"ACM Conference on Recommender Systems (RecSys)",
+               "year":2014
+
+						},
+						{
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
                "title":"Ensemble Contextual Bandits for Personalized Recommendation",
                "url":"",
