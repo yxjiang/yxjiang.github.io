@@ -2,11 +2,11 @@
    "news":[
 			{
 				"time": "2014.7",
-				"description":"One paper about multi-armed bandit ensemble recommendation has been accepted by <a href='http://recsys.acm.org/recsys14/'>target='_bland'>Recsys 2014</a>."
+				"description":"One paper about multi-armed bandit ensemble recommendation has been accepted by <a href='http://recsys.acm.org/recsys14/' target='_bland'>Recsys 2014</a>."
 			},
 			{
 				"time": "2014.6",
-				"description":"One paper about large-scale data mining application in manufacturing industry and one paper about real time contextual collective anomaly detection have been accepted by <a href='http://www.kdd.org/kdd2014/index.html'>KDD 2014</a> and its workshop <a href='http://outlier-analytics.org/odd14kdd/'>Outlier Detection & Description under Data Diversity</a> respectively."
+				"description":"One paper about large-scale data mining application in manufacturing industry and one paper about real time contextual collective anomaly detection have been accepted by <a href='http://www.kdd.org/kdd2014/index.html' target='_bland'>KDD 2014</a> and its workshop <a href='http://outlier-analytics.org/odd14kdd/' target='_bland'>Outlier Detection & Description under Data Diversity</a> respectively."
 			},
       {
          "time":"2014.3",
