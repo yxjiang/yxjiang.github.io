@@ -243,8 +243,8 @@
          "time":"2014.5 - 2014.8",
          "work":[
             {
-               "topic":"News Feed Ranking",
-               "description":"Participated in the design and implementation of large-scale personalized news feed ranking system."
+               "topic":"Personalized News Feed Ranking",
+               "description":"Designed and implemented the pipeline as well as the related analytics tools for personalized News Feed ranking at Internet scale, making the recommendation more accurate for active users in Facebook."
             }
          ]
       },
