@@ -244,7 +244,7 @@
          "work":[
             {
                "topic":"Personalized News Feed Ranking",
-               "description":"Designed and implemented the pipeline as well as the related analytics tools for personalized News Feed ranking at Internet scale, making the recommendation more accurate for active users in Facebook."
+               "description":"Designed and implemented the pipeline as well as the related analytic tools for personalized News Feed ranking at Internet scale, making the recommendation more accurate for active users in Facebook."
             }
          ]
       },
