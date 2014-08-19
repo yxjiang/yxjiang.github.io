@@ -267,7 +267,7 @@
          "work":[
             {
                "topic":"Cloud Services Marketplace",
-               "description":"Participated in the design and development of a prototype project called Cloud Services Marketplace. The goal of this project is to provide an intelligent platform to facilitate the customers for service acquisition. The prototype evolved into IBM 2013 Global Technology Outlook project 'Scalable Services Ecosystem'."
+               "description":"Participated in the design and development of a prototype project called Cloud Services Marketplace. The goal of this project is to provide an intelligent platform to allow the customers acquire the needed services in a natural interactive approach. The prototype evolved into IBM 2013 Global Technology Outlook project 'Scalable Services Ecosystem'."
             }
          ]
       },
@@ -293,7 +293,7 @@
          "work":[
             {
                "topic":"Large-scale Usage Behavior Analysis for Office User",
-               "description":"Developed a frequent sequence mining algorithm based on distributed system, and applied it to analyze the Office user behavior dataset to discover causal knowledge about the how different users use the Office software. The mining result is used to ameliorate the layout of the GUI of Office series software. In charge of implementation using C++ and parallel version of algorithm design."
+               "description":"Developed a frequent sequence mining algorithm based on distributed system, and applied it to discover how different users use 'Office' by analyzing the Office user behavior log. The mining results are used to ameliorate the layout of the GUI of Office series software. In charge of implementation using C++ and parallel version of algorithm design."
             }
          ]
       }
