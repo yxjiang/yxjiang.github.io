@@ -85,13 +85,12 @@
       {
          "byyear":2014,
          "publications":[
-						{
+            {
 						   "authors":"Yexi Jiang, Chunqiu Zeng, Jian Xu, Tao Li",
                "title":"Real time contextual collective anomaly detection over multiple data streams",
                "url":"",
                "source":"ACM SIGKDD Workshop Outlier Detection & Description under Data Diversity (<b>SIGKDD Workshop ODD^2</b>)",
                "year":2014
-
 						},
 						{
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
@@ -100,6 +99,14 @@
                "source":"ACM Conference on Recommender Systems (<b>RecSys</b>)",
                "year":2014
             },
+            {
+              "authors" "Lei Li", "Chao Shen", "Long Wang", "Li Zheng", "Yexi Jiang", "Liang Tang", "Hongtai Li", "Longhui Zhang", "Chunqiu Zeng" and "Tao Li",
+              "title": "iMiner: Mining Inventory Data for Intelligent Management",
+              "url": ,
+              "source": "ACM Conference on Information and Knowledge Management (<b>CIKM 2014</b>)",
+              "year": 2014
+            },
+
 						{
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
                "title":"META: Multi-resolution Framework for Event Summarization",
