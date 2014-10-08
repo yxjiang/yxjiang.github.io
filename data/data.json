@@ -95,7 +95,7 @@
 						{
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
                "title":"Ensemble Contextual Bandits for Personalized Recommendation",
-               "url":"./paper/RecSys2014-ensemble-recommender.pdf",
+               "url":"./paper/RecSys2014-ensemble-bandit.pdf",
                "source":"ACM Conference on Recommender Systems (<b>RecSys</b>)",
                "year":2014
             },
