@@ -88,14 +88,14 @@
             {
 						   "authors":"Yexi Jiang, Chunqiu Zeng, Jian Xu, Tao Li",
                "title":"Real time contextual collective anomaly detection over multiple data streams",
-               "url":"",
+               "url":"./paper/odd2014-stream-outlier.pdf",
                "source":"ACM SIGKDD Workshop Outlier Detection & Description under Data Diversity (<b>SIGKDD Workshop ODD^2</b>)",
                "year":2014
 						},
 						{
                "authors":"Liang Tang, Yexi Jiang, Lei Li, Tao Li",
                "title":"Ensemble Contextual Bandits for Personalized Recommendation",
-               "url":"",
+               "url":"./paper/RecSys2014-ensemble-recommender.pdf",
                "source":"ACM Conference on Recommender Systems (<b>RecSys</b>)",
                "year":2014
             },
