@@ -99,14 +99,6 @@
                "source":"ACM Conference on Recommender Systems (<b>RecSys</b>)",
                "year":2014
             },
-            {
-              "authors" "Lei Li, Chao Shen, Long Wang, Li Zheng, Yexi Jiang, Liang Tang, Hongtai Li, Longhui Zhang, Chunqiu Zeng, Tao Li",
-              "title": "iMiner: Mining Inventory Data for Intelligent Management",
-              "url": ,
-              "source": "ACM Conference on Information and Knowledge Management (<b>CIKM 2014</b>)",
-              "year": 2014
-            },
-
 						{
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
                "title":"META: Multi-resolution Framework for Event Summarization",
