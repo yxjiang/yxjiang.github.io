@@ -101,10 +101,10 @@
             },
             {
               "authors" "Lei Li, Chao Shen, Long Wang, Li Zheng, Yexi Jiang, Liang Tang, Hongtai Li, Longhui Zhang, Chunqiu Zeng, Tao Li",
-              "title": "Mining Inventory Data for Intelligent Management",
-              "url": "",
-              "source": "ACM Conference on Information and Knowledge Management (<b>CIKM</b>)",
-              "year": 2014
+              "title":"Mining Inventory Data for Intelligent Management",
+              "url":"",
+              "source":"ACM Conference on Information and Knowledge Management (<b>CIKM</b>)",
+              "year":2014
             },
 						{
                "authors":"Yexi Jiang, Chang-shing Perng, Tao Li",
