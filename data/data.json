@@ -63,22 +63,22 @@
    ],
    "patent":[
       {
-         "patentname":"System and Method for Cloud Provisioning Accelerator",
+         "patentname":"Cloud Provisioning Accelerator",
          "patentno":"US Patent: 20,130,139,152",
-         "collaborator":"Charles Perng, Rong Chang, Hidayatullah Shaikh, Edward So, Tao Tao, Meir Laker",
-         "status":"filed"
+         "collaborator":"With Rong Chang, Mihwa Choi, Meir Laker, Chang-Shing Perng, Hidayatullah Shaikh, Edward So, Tao Tao",
+         "status":"US 20130139152 A1"
       },
       {
          "patentname":"System and Method for Constructing Semantic Dialog Driven Services and Products Discovery",
          "patentno":"",
-         "collaborator":"Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao",
-         "status":"filed"
+         "collaborator":"With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou",
+         "status":"Filed"
       },
       {
          "patentname":"System and Method for Complex Service Network Ranking and Clustering",
          "patentno":"",
-         "collaborator":"Anca Sailer, Frank Schaffa, Ignacio Silva-Lepe, Tom Chefalas, Jim Laredo, Charles Perng, Tao Tao, Yang Zhou, Alla Segal",
-         "status":"filed"
+         "collaborator":"With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou",
+         "status":"Filed"
       }
    ],
    "publication":[
