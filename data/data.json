@@ -342,8 +342,9 @@
    ],
    "services":{
       "review":[
-         "IEEE Transactions on Knowledge and Data Engineering",
-         "Knowledge and Information System"
+         "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+         "ACM Transactions on Knowledge Discovery from Data (TKDD)",
+         "Knowledge and Information System (KAIS)"
       ]
    },
    "codes":[
