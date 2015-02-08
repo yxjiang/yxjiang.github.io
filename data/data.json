@@ -1,5 +1,9 @@
 {
    "news":[
+      {
+        "time": "2014.12",
+        "description": "I will join Facebook as a Research Scientist in May 2015."
+      },
 			{
 				"time": "2014.7",
 				"description":"One paper about multi-armed bandit ensemble recommendation has been accepted by <a href='http://recsys.acm.org/recsys14/' target='_bland'>Recsys 2014</a>."
