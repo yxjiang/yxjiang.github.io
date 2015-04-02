@@ -100,12 +100,20 @@ $(function(){
 
 
     var services = data["services"]
-    var review = services["review"]
+    var review = services["reviewer"]
+    var pc = services["pc"]
     $("#services").append("Reviewer");
     $("#services").append("<div id='review'><ul id='review-list'></ul></div>");
     $.each(review, function(reviewer_index, reviewer_entry) {
       $("#review-list").append("<li>" + reviewer_entry + "</li>");
     });
+
+    $("#services").append("Conference Program Committee Member");
+    $("#services").append("<div id='review'><ul id='pc-list'></ul></div>");
+    $.each(pc, function(pc_index, pc_entry) {
+      $("#pc-list").append("<li>" + pc_entry + "</li>");
+    });
+
 
     //	initialize code page
     var codes = data["codes"];

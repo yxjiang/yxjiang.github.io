@@ -351,7 +351,7 @@
          "Knowledge and Information System (<b>KAIS</b>)",
          "Data and Knowledge Engineering (<b>DKE</b>)"
       ],
-      "Conference Program Committee Member": [
+      "pc": [
         "SIGKDD 2015", "RecSys 2015" 
       ]
    },
