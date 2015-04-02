@@ -345,11 +345,14 @@
       }
    ],
    "services":{
-      "review":[
+      "reviewer":[
          "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)",
          "ACM Transactions on Knowledge Discovery from Data (<b>TKDD</b>)",
          "Knowledge and Information System (<b>KAIS</b>)",
          "Data and Knowledge Engineering (<b>DKE</b>)"
+      ],
+      "Conference Program Committee Member": [
+        "SIGKDD 2015", "RecSys 2015" 
       ]
    },
    "codes":[
