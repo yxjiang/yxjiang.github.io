@@ -1,12 +1,16 @@
 {
    "news":[
       {
+        "time": "2015.4",
+        "description": "One paper about parameter-free personalized recommendation has been accepted by <a href='http://www.sigir2015.org/' target='_blank'>SIGIR</a> 2015."
+      },
+      {
         "time": "2014.12",
         "description": "I will join Facebook as a Research Scientist in May 2015."
       },
 			{
 				"time": "2014.7",
-				"description":"One paper about multi-armed bandit ensemble recommendation has been accepted by <a href='http://recsys.acm.org/recsys14/' target='_bland'>Recsys 2014</a>."
+				"description":"One paper about multi-armed bandit ensemble recommendation has been accepted by <a href='http://recsys.acm.org/recsys14/' target='_blank'>Recsys 2014</a>."
 			},
 			{
 				"time": "2014.6",
@@ -86,6 +90,18 @@
       }
    ],
    "publication":[
+      {
+        "byyear":2015,
+        "publications":[
+          {
+            "authors": "Liang Tang, Yexi Jiang, Lei Li, Chunqiu Zeng, Tao Li",
+            "title": "Personalized Recommendation via Parameter-Free Contextual Bandits",
+            "url": "",
+            "source": "ACM SIGIR Conference on Information Retrieval",
+            "year":2015
+          }
+        ]
+      },
       {
          "byyear":2014,
          "publications":[
