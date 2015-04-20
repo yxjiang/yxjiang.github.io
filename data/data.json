@@ -2,6 +2,10 @@
    "news":[
       {
         "time": "2015.4",
+        "description": "One paper about real time anomaly detection has been accepted by <a href='http://www.journals.elsevier.com/expert-systems-with-applications/' target='_blank'>Expert System with Applications</a>."
+      },
+      {
+        "time": "2015.4",
         "description": "One paper about parameter-free personalized recommendation has been accepted by <a href='http://www.sigir2015.org/' target='_blank'>SIGIR 2015</a>."
       },
       {
@@ -98,6 +102,13 @@
             "title": "Personalized Recommendation via Parameter-Free Contextual Bandits",
             "url": "",
             "source": "ACM SIGIR Conference on Information Retrieval (<b>SIGIR</b>)",
+            "year":2015
+          },
+          {
+            "authors": "Jian Xu, Yexi Jiang, Chunqiu Zeng, Tao Li",
+            "title": "Node Anomaly Detection for Homogeneous Distributed Environments",
+            "url": "",
+            "source": "Expert Systems with Applications",
             "year":2015
           }
         ]
