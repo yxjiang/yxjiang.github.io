@@ -102,7 +102,7 @@ $(function(){
     var services = data["services"]
     var review = services["journal referee"]
     var pc = services["pc"]
-    $("#services").append("Reviewer");
+    $("#services").append("Journal Referee");
     $("#services").append("<div id='review'><ul id='review-list'></ul></div>");
     $.each(review, function(reviewer_index, reviewer_entry) {
       $("#review-list").append("<li>" + reviewer_entry + "</li>");
