@@ -100,7 +100,7 @@ $(function(){
 
 
     var services = data["services"]
-    var review = services["reviewer"]
+    var review = services["journal referee"]
     var pc = services["pc"]
     $("#services").append("Reviewer");
     $("#services").append("<div id='review'><ul id='review-list'></ul></div>");

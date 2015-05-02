@@ -372,10 +372,11 @@
       }
    ],
    "services":{
-      "reviewer":[
+      "journal referee":[
          "IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)",
          "ACM Transactions on Knowledge Discovery from Data (<b>TKDD</b>)",
          "Knowledge and Information System (<b>KAIS</b>)",
+         "Information Sciences",
          "Data and Knowledge Engineering (<b>DKE</b>)"
       ],
       "pc": [
