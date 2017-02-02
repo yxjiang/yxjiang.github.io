@@ -95,6 +95,18 @@
    ],
    "publication":[
       {
+        "byyear":2016,
+        "publications":[
+          {
+            "authors": "Yexi Jiang, Chang-Shing Perng, Anca Sailer, Ignacio Silva-Lepe, Yang Zhou, Tao Li",
+            "title": "CSM: A Cloud Service Marketplace for Complex Service Acquisition",
+            "url": "http://dl.acm.org/citation.cfm?id=2894759",
+            "source": "ACM Transactions on Intelligent Systems and Technology (<b>ACM TIST</b>)",
+            "year":2016
+          }
+        ]
+      },
+      {
         "byyear":2015,
         "publications":[
           {
