@@ -8,10 +8,10 @@ $(function(){
 
     //$("#map").append("");
 
-    //	initialize home, only show top 5 news
+    //	initialize home, only show top 6 news
     var news = data["news"];
     $.each(news, function(index, item){
-      if(index < 5)
+      if(index < 6)
         $('#news-list').append("<li>" + item.time + "&nbsp;-&nbsp;" + item.description);
     });
 
