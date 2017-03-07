@@ -1,6 +1,10 @@
 {
    "news":[
       {
+        "time": "2016.1",
+        "description": "One paper about intelligent cloud service acquisition system has been accepted by <a href='http://tist.acm.org/'>ACM Transactions on Intelligent Systems and Technologies</a>" 
+      },
+      {
         "time": "2015.4",
         "description": "One paper about real time anomaly detection has been accepted by <a href='http://www.journals.elsevier.com/expert-systems-with-applications/' target='_blank'>Expert Systems with Applications</a>."
       },
