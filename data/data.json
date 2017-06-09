@@ -1,6 +1,10 @@
 {
    "news":[
       {
+        "time": "2016.5",
+        "description": "One paper about event analysis system has been accepted by <a href='http://www.kdd.org/kdd2017/'>ACM SIGKDD 2017</a>" 
+      },
+      {
         "time": "2016.1",
         "description": "One paper about intelligent cloud service acquisition system has been accepted by <a href='http://tist.acm.org/'>ACM Transactions on Intelligent Systems and Technology</a>" 
       },
