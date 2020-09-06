@@ -129,7 +129,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "yxjiang"
+      icon: "fab fa-fw fa-github"
       # url: "http://https://github.com/yxjiang"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
