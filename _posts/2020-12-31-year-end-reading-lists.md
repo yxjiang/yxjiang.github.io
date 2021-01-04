@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "My 2020 Year Reading Lists"
-date:   2020-12-30
+date:   2020-12-31
 categories: summary
 ---
 
@@ -20,7 +20,7 @@ The book was recommended to me in kindle. A timely book to read, as the world is
 
 This is probably the most inspiring book I read this year, written by David Goggins, a former Navy SEAL member, a ultramarathon runner, and a once loser.
 
-As a memoir, David described his 20-year experience as an aboslute loser and how he transformed himself to aim to success. In addition to emotional motivating, this book also provide tips on helping regulate yourself. In each chapter, David challenges the readers to improve on one aspect. By reading through this book, the readers not only go through the life of David Goggins but also learnt the tactics he used to improve himself. It is the first time that I wish a book is thicker so that I can enjoy reading it for a longer time.
+As a memoir, David described his 20-year experience as an aboslute loser and how he transformed himself to aim to success. In addition to emotional motivating, this book also provides tips on helping regulate yourself. In each chapter, David challenges the readers to improve on one aspect. By reading through this book, the readers would not only go through the life of David Goggins but also learn the tactics he used to improve himself. It is the first time that I wish a book is thicker so that I can enjoy reading it for a longer time.
 
 Only the paranoid survive.
 
@@ -34,7 +34,7 @@ I came across this book from a Blind post named "I'm a D2, AMA", posted by a sen
 
 > When you are facing complex problems, they are no longer as easy as black-or-white questions. In most of such cases, you have do make decisions or take actions based on the incomplete information.
 
-A really great book that clearly convey some useful perspectives of thought process:
+A really great book that clearly conveys some useful perspectives of thought process:
 
 * Estimating the distribution of the possible outcomes. When there are uncertainty, it simply impossible to make deterministic prediction about the outcome. A more realistic strategy is to estimate the distribution and make decisions based on that. This philosophy is exactly how modern artificial intelligence (more specifically, reinforcement learning) systems work.
 
@@ -57,7 +57,7 @@ This book was recommended by my manager.
 
 A memoir written by Disney CEO Bob Iger. Bob is not an old-school executive that focus on company's stability. Instead, he is a risky seeking person that made multiple bold moves during his career, including the acquire of Pixar, Lucas film, Marvel, and the launching and consolidation of Disney streaming services Disney+/Hulu/ESPN.
 
-Based on his 40+ year career, he summarized 10 merits that a true leader should have. Each of the merits is explained with a few real scenarios that he encountered during his career. His principles of true leadership are listed as follows:
+Based on his 40+ year career, Bob summarized 10 merits that a true leader should have. Each of the merits is explained with a few real scenarios that he encountered during his career. His principles of true leadership are listed as follows:
 - Optimism
 - Courage
 - Focus
@@ -99,7 +99,7 @@ A book was recommended by my manager in 2019, and I finally finished it in 2020.
 
 It's a long journey and a non-stop learning process along the leadership career. Leadership is an art, but it doesn't mean there isn't any pattern. From mentor to senior leadership, there is a tremendous amount of new skills to learn in order to be capable of the role at each stage. Luckily, we have experienced leaders to share their experiences and enable us to take less detour during our journey.
 
-Leadership skills are not just for managers, they are also mandetory skills for senior individual contributos. This book provided great tactics and strategies by walking through the leadership skills needed along the career step-by-step, from mentor, to tech lead, to manager of a team, to manager of multiple teams, to manager of managers, and finally to the VP/CTO land.
+Leadership skills are not just for managers, they are also mandetory skills for senior individual contributos. This book provides great tactics and strategies by walking through the leadership skills needed along the career step-by-step, from mentor, to tech lead, to manager of a team, to manager of multiple teams, to manager of managers, and finally to the VP/CTO land.
 
 
 # Big Debt Crises
