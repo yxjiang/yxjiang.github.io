@@ -11,6 +11,8 @@ author_profile: true
 * [Complex Service Network Ranking and Clustering](https://patentimages.storage.googleapis.com/47/83/e4/b994533edd3eb5/US9576048.pdf). US Patent: US9576048B2.
 
 ## Conference Proceedings and Journals ([Google Scholar](https://scholar.google.com/citations?user=ojlglBsAAAAJ&hl=en))
+* Tao Li, **Yexi Jiang**, Chunqiu Zeng, etc., [FLAP: An end-to-end event log analysis platform for system management](https://dl.acm.org/doi/abs/10.1145/3097983.3098022). ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2017.
+* Tao Li, Chunqiu Zeng, **Yexi Jiang**, etc., [Data-driven techniques in computing system management](https://dl.acm.org/doi/abs/10.1145/3092697). ACM Computing Surveys, 2017.
 * **Yexi Jiang**, Chang-Shing Perng, Anca Sailer, Ignacio Silva-Lepe, Yang Zhou, Tao Li. [CSM: A Cloud Service Marketplace for Complex Service Acquisition](https://dl.acm.org/doi/10.1145/2894759). ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2016.
 * Liang Tang, **Yexi Jiang**, Lei Li, Chunqiu Zeng, Tao Li. [Personalized Recommendation via Parameter-Free Contextual Bandits](https://www.researchgate.net/publication/275584419_Personalized_Recommendation_via_Parameter-Free_Contextual_Bandits). ACM SIGIR Conference on Information Retrieval (**SIGIR**), 2015.
 * Jian Xu, **Yexi Jiang**, Chunqiu Zeng, Tao Li. [Node Anomaly Detection for Homogeneous Distributed Environments](https://www.researchgate.net/publication/275336864_Node_Anomaly_Detection_for_Homogeneous_Distributed_Environments). Expert Systems with Applications (**ESWA**), 2015.
