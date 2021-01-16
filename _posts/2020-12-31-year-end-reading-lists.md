@@ -2,7 +2,7 @@
 layout: single
 title:  "My 2020 Year Reading Lists"
 date:   2020-12-31
-categories: summary
+categories: [summary, book]
 ---
 
 One the last day of 2020, I'd like to share a portion of my annual reading list of favorites, along with a short piece of review for each the books. I hope the people can find the peacefulness when reading books.
