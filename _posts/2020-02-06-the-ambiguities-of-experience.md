@@ -11,7 +11,7 @@ categories: [summary, book]
 
 Understanding how human beings understand the world is attractive. Especially for people like me that are interested in machine learning and data mining. The mechanism of human understanding can inspire us to improve how machine learn things, and then we can quickly scale out the capability of knowledge learning due to machine nature.
 
-I had some vague thoughts on how human begings learn the knowledge from an amateur's perspective. This book validates a lot of such thoughts from an expert perspective, organizes them in a much better structure, and presents them in an intuitive way.
+I had some vague thoughts on how human beings learn the knowledge from an amateur's perspective. This book validates a lot of such thoughts from an expert perspective, organizes them in a much better structure, and presents them in an intuitive way.
 
 As summarized, human beings have two major sources of learning from experiences: ****Learning through replicating success**, and **learning through stories and models**.
 
