@@ -28,11 +28,11 @@ There are maining three mechanism for learning through replicating success:
 
 If you are familiar with machine learning, you will find all of the three approaches have been adapted to this area successfully. 
 
-Trial-and-error is the fundation of the **reinforcement learning**, a machine learning mechaism tries to "adapt" the environement (quantified by maximizing the long-term cumulative rewards) by interacting with using curated actions. Reinforcement learning has been discussed for a long time in the academia, and it draws increasing attention in the industry over the past decade due to the popularity of AI. A history of reinforcement learning can be seen from the [book chapter](http://incompleteideas.net/book/first/ebook/node12.html) of "Reinforcement learning: An introduction" written by Sutton and Barto.
+Trial-and-error is the foundation of the **reinforcement learning**, a machine learning mechanism tries to "adapt" the environment (quantified by maximizing the long-term cumulative rewards) by interacting with using curated actions. Reinforcement learning has been discussed for a long time in the academia, and it draws increasing attention in the industry over the past decade due to the popularity of AI. A history of reinforcement learning can be seen from the [book chapter](http://incompleteideas.net/book/first/ebook/node12.html) of "Reinforcement learning: An introduction" written by Sutton and Barto.
 
 The counterpart of imitation in machine learning is **imitation learning**. It is arguably to be considered as a sub-domain of reinforcement learning. Instead of learning from the reward received by taking actions, an expert would provide the learner (agent) a set of demonstrations, and the agent tries to learn the optimal policy by imitating the expert's decision. Imitation learning is an emerging machine learning domain that has promising applications in robotics.
 
-Selection has been adapted by the machine learning domain for a long time already. **Evolutionary algorithms** once was a hot topic in the acadamia before neural networks. It leverages the computer programs to mimic the evolution of the creatures, and defines the adaptability to quantify how good the current generation of algorithm can solve the target problem. 
+Selection has been adapted by the machine learning domain for a long time already. **Evolutionary algorithms** once was a hot topic in the academia before neural networks. It leverages the computer programs to mimic the evolution of the creatures, and defines the adaptability to quantify how good the current generation of algorithm can solve the target problem. 
 
 ## Learning through stories and models
 Learning through stories and models are considered to be a complementary way of learning through replicating success. This is because any individual has limited exposure of the environment and has limited amount of direct experience to gain. Moreover, learning through replicating success neglects the explicit understandings of causal relationships among the actions and outcomes, while learning through stories and models tries to resolve this with reasoning.
@@ -40,7 +40,7 @@ Learning through stories and models are considered to be a complementary way of 
 An common application of learning through stories and models are learning through books. Books contains the information with knowledge that are summarized and distilled from the first-hand experience. The readers can absorb the knowledge without direct experience. The summarized knowledge are usually represented in the form of stories and models, and in most of the time they are simplified to cater the limited cognitive abilities of human beings.
 
 ## Limitation of learning through experience
-Experience is a great teacher, however, it is not perfect due to its ambiguity. The ambiguity of experience has many causes and takes many forms, but a significant fraction of tem can be summariezed as follows:
+Experience is a great teacher, however, it is not perfect due to its ambiguity. The ambiguity of experience has many causes and takes many forms, but a significant fraction of them can be summarized as follows:
 
 * **The causal structure of experience is complex**. Many uncontrolled variables are involved, and their relations include multiple interactions and multiple co-linearities.
 * **Experience is noisy**. The events of history are drawn from a distribution of possibilities, either because of errors in observation or interpretation or because the causal structure is truly stochastic.
