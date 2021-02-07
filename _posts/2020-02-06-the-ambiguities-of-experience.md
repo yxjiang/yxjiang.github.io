@@ -13,7 +13,7 @@ Understanding how human beings understand the world is attractive. Especially fo
 
 I had some vague thoughts on how human beings learn the knowledge from an amateur's perspective. This book validates a lot of such thoughts from an expert perspective, organizes them in a much better structure, and presents them in an intuitive way.
 
-As summarized, human beings have two major sources of learning from experiences: ****Learning through replicating success**, and **learning through stories and models**.
+As summarized, human beings have two major sources of learning from experiences: **Learning through replicating success**, and **learning through stories and models**.
 
 ## Learning through replicating success
 Learning through replicating success is a way to learn the knowledge via direct experience. The steps of learning through replicating success can be summarized in three steps:
