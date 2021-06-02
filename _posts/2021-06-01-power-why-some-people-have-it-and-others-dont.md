@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Measure What Matters"
+title:  "Power: Why someone has it, while others don't"
 date:   2021-05-09
 categories: [summary, book]
 ---
