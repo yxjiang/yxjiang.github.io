@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Power: Why someone has it, while others don't"
-date:   2021-05-09
+date:   2021-06-01
 categories: [summary, book]
 ---
 
