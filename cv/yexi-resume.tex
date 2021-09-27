@@ -1,0 +1,197 @@
+%% start of file `moderncv_ntrp_template_en.tex'.
+%% Copyright 2007 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+%
+% Modded by ntrp (nitropowered@gmail.com)
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% moderncv themes
+%\moderncvtheme[blue]{casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvtheme[blue]{classic}                % idem
+\usepackage{expl3}
+\expandafter\def\csname ver@l3regex.sty\endcsname{}
+
+\usepackage[T1]{fontenc}
+% \usepackage{hyperref}
+% character encoding
+\usepackage[utf8x]{inputenc}                   % replace by the encoding you are using
+\usepackage[croatian]{babel}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
+
+\fancyfoot{} % clear all footer fields
+\fancyfoot[LE,RO]{\thepage}           % page number in "outer" position of footer line
+\fancyfoot[RE,LO]{\footnotesize } % other info in "inner" position of footer line
+
+% personal data
+\firstname{Yexi}
+\familyname{Jiang}
+\title{Resume}               % optional, remove the line if not wanted
+% \address{908 Harmon Drive}{Menlo Park, 94025, CA}    % optional, remove the line if not wanted
+\mobile{305-458-8476}                    % optional, remove the line if not wanted
+%\phone{<Phone number>}                      % optional, remove the line if not wanted
+%\fax{<Fax number>}                          % optional, remove the line if not wanted
+% \email{yx-jiang@outlook.com}                      % optional, remove the line if not wanted
+\email{yexijiang@gmail.com}                      % optional, remove the line if not wanted
+\extrainfo{GitHub: \url{https://github.com/yxjiang}, \\Homepage: \url{http://yxjiang.github.io/}, \\LinkedIn: \url{https://www.linkedin.com/in/yxjiang}}
+%\extrainfo{LinkedIn: \url{http://www.linkedin.com/in/yxjiang}}
+%\extrainfo{additional information (optional)} % optional, remove the line if not wanted
+%\photo[84pt]{placeholder.jpg}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+%\quote{"Success is the ability to go from failure to failure without losing your enthusiasm." -- Winston Churchill}                 % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+%Section
+%\section{Info}
+%\cvline{Birth}{\small <Date> (<Place>)\normalsize}
+%\cvcomputer{Citizenship}{\small <Citisenship>\normalsize}{Driving License}{\small <License> \normalsize}
+%\cvline{Elance}{\small \url{<Link to profile>}\normalsize}
+% \cvline{LinkedIn}{\small \url{http://www.linkedin.com/in/yxjiang}\normalsize}
+%\cvline{Blog}{\small \url{<Link to profile>}\normalsize}
+%\cvline{Skype}{\small <skype>\normalsize}
+
+%Section
+%\section{Desidered employment and Skills}
+%\cvline{}{\Large <Desidered employment>}
+%\cvline{}{\small <Skills>}
+
+%Section
+\vspace{-0.2in}
+% \section{Immigration Status}
+% Permanent Resident of USA and no need for visa sponsorship
+\section{Summary}
+A passionate result driven practitioner with hands-on skills on data mining/machine learning algorithm development and research.
+% Extensive R\&D experience at the world's leading companies and open source community like Facebook, IBM, Microsoft, and Apache Software Foundation.
+% More than 20 research paper published at recognized international conferences and journals.
+Strong eagerness to work with talented and energetic people on promising projects.
+
+
+\section{Experience}
+
+\subsection{Industrial Experience}
+\cventry{2020-Now}{Tech Lead Manager}{\textbf{Roblox}}{San Mateo, CA}{USA}
+{
+  \begin{itemize} % \itemsep 0.05in
+    \item Leading the engineering of Roblox homepage, including frontend, backend, and machine learning. 
+  \end{itemize}
+}
+
+\cventry{2019-2020}{Tech Lead Manager}{\textbf{Machine Learning Platform, Uber Technologies Inc.}}{San Francisco, CA}{USA}
+{
+  \begin{itemize} % \itemsep 0.05in
+    \item Support the remote GPU inference service used in model evaluation for the use cases of perception, prediction, motion planning, labeling, and more for the autonomous vehicles.
+    \item Support the ML CI/CD, automating the verification of the ML logic changes regarding dataset generation, model training, model serving, and various model evaluation stages.
+  \end{itemize}
+}
+
+\cventry{2014-2019}{Research Scientist}{\textbf{Facebook Inc.}}{Menlo Park, CA}{USA}
+{
+\begin{itemize} %\itemsep 0.1in
+	\item \textbf{Feed and Story Integrity}
+  \begin{itemize} %\itemsep -0.05in
+    \item Tead lead of News Feed and Story from the ranking anti-manipulation and integrity perspective. 
+    \item Led the design and implementation of the ML-based fake engagement detection system from scratch, reducing hundreds of millions of in-feed impression for contents benefit from fake engagement.
+    \item Led the design and implementation of ML-based content moderation system for Facebook Story, including ML-based labeling, measurement, detection, and enforcement on both violating contents (bully, drug and firearm selling, etc.) and gray area contents (clickbait, engagement-bait, etc.).
+  \end{itemize}
+\item \textbf{Core Growth }
+  \begin{itemize} % \itemsep -0.05in
+      \item ML tech lead of the core growth org, worked on ML problems across multiple product lines, including Friend recommendation (PYMK), Identity, Acquisition, Login, and Account recovery.
+      \item Owner of the holistic auction system that is responsible for inserting promotion contents to the News Feed, along with the organic contents and ads. The content types include but not limited to: recommended friends, recommended groups, recommended events, recommended jobs, recommended places, etc.
+    % \item Led a small team of engineers on single user multiple accounts detection. Drove the system design and XFN collaboration. Detection results are used by multiple sibling teams, such as user acquisition, user login team, and are used to calculate the duplicate accounts reported to Facebook earning report.
+  \end{itemize}
+\item Intern of the News Feed Ranking team
+  \begin{itemize}\itemsep 0.1in
+      \item Designed and implemented the pipeline as well as the related analytic tools for personalized News Feed ranking at Internet scale, increased the AUC of the prediction by 0.x\%. % (Mentor: David Vickrey)
+  \end{itemize}
+\end{itemize}
+}
+\cventry{2011-2013}{Intern}{\textbf{Service Management team, IBM T.J. Watson Research Center}}{New York, NY}{USA}
+{
+\begin{itemize}%\itemsep 0.1in
+\item Summer internships in 2011, 2012, and 2013, focusing on ML R\&D on the IaaS IBM Cloud. Also closely collaborated with IBM research while at school. Filed 3 patents during these years.	
+\end{itemize}
+} % arguments 3 to 6 are optional
+\cventry{2009}{Intern}{\textbf{Data Intelligence and Tools team, Microsoft Research}}{Beijing}{China}
+{
+\begin{itemize} \itemsep 0.1in
+    \item Worked on distributed data mining and analysis algorithm R\&D. Worked closely with MS Office teams to help them better understand the user behaviors on the products.
+\end{itemize}
+} % arguments 3 to 6 are optional
+
+\subsection{Open Source Projects}
+\cventry{Open Source Community}{Apache Software Foundation}{}{}{}
+{
+\begin{itemize}
+\item \textbf{PMC Member} of Apache Hama: A BSP framework for distributed computing.
+  \begin{itemize} \itemsep 0.1in
+    \item Working on the distributed machine learning package, including the design and implementation of distributed multilayer perceptron, linear regression, logistic regression, and auto-encoder. [\textbf{\href{https://github.com/yxjiang/hama}{GitHub Link}}]
+% \item Bug fixing and existing feature improvement. 
+% \item Contributer of Apache Mahout:  Designed and implemented the stochastic version of multilayer perceptron.
+  \end{itemize}
+\item \textbf{Committer} of Apache Mahout: A machine learning library for Hadoop.
+  \begin{itemize} \itemsep 0.1in
+      \item Implemented the multilayer neural network model trained with  stochastic gradient descent.
+  \end{itemize}
+\end{itemize}
+} % arguments 3 to 6 are optional
+
+% \section{Patents}
+% \begin{enumerate} \itemsep 0.1in
+% \item \textit{Cloud Provisioning Accelerator}. With Rong Chang, Mihwa Choi, Meir Laker, Chang-Shing Perng, Hidayatullah Shaikh, Edward So, Tao Tao. \textbf{US 20130139152}.
+% \item \textit{Interactive Acquisition of Remote Services}. With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou. \textbf{US 20140337010}.
+% %\item \textit{Constructing Semantic Dialog Driven Services and Products Discovery}. With Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao. (Pending)
+% \item \textit{Complex Service Network Ranking and Clustering}. With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou. \textbf{Filed}.
+% \end{enumerate}
+
+\section{Publication}
+\begin{itemize} \itemsep 0.1in
+\item Program committee member and reviewer of the top academic conferences/journals in the area of data science, such as: \textit{ACM Conference on Knowledge Discovery and Data Mining (\textbf{SIGKDD})}, \textit{International Conference on Data Mining (\textbf{ICDM})}, \textit{ACM Conference on Recommender Systems (\textbf{RecSys})}, \textit{IEEE Transactions on Knowledge and Data Engineering (\textbf{TKDE})}, \textit{ACM Transactions on Knowledge Discovery from Data (\textbf{TKDD})}, \textit{Knowledge and Information System (\textbf{KAIS})}, \textit{Information Sciences}, \textit{IEEE Transactions on Cybernetics}, \textit{Data and Knowledge Engineering (\textbf{DKE})}, etc.
+\item Published 20+ papers at the top journals/conferences in the area of data science with 700+ citations, such as: \textit{ACM Conference on Knowledge Discovery and Data Mining (\textbf{SIGKDD})}, \textit{International Conference on Data Mining (\textbf{ICDM})}, \textit{ACM Conference on Recommender Systems (\textbf{RecSys})}, \textit{ACM Conference on Information Retrieval (\textbf{SIGIR})}, \textit{ACM Conference on Information and Knowledge Management (\textbf{CIKM})}, \textit{IEEE Transactions on Knowledge and Data Engineering (\textbf{TKDE})}, \textit{ACM Transactions on Intelligent Systems and Technology (\textbf{TIST})}, etc. (Details at: \url{https://goo.gl/4dRHrb})
+\item Published 3 patents during the internships at IBM,
+
+\end{itemize}
+
+
+% \section{Selected Publications (20+ publications in total)}
+% \begin{enumerate} \itemsep 0.05in
+% \item \textbf{Yexi Jiang}, Chang-Shing Perng, Anca Sailer, Ignacio Silva-Lepe, Yang Zhou, Tao Li. "CSM: a cloud service marketplace for complex service acquisition", \emph{ACM Transactions on Intelligent Systems and Technology} \textbf{(TIST)}, 2016.
+% \item Liang Tang, \textbf{Yexi Jiang}, Lei Li, Tao Li. "Personalized Recommendation via Parameter-Free Contextual Bandits", \emph{ACM Conference on Information Retrieval} \textbf{(SIGIR)}, 2015.
+% \item \textbf{Yexi Jiang}, Chunqiu Zeng, Jian Xu, Tao Li. "Real time contextual collective anomaly detection over multiple data streams". \emph{ACM SIGKDD Workshop on Outlier Detection \& Description under Data Diversity} \textbf{(SIGKDD Workshop ODD$^2$)}, 2014.
+% \item Liang Tang, \textbf{Yexi Jiang}, Lei Li, Tao Li. "Ensemble Contextual Bandits for Personalized Recommendation". \emph{ACM Conference on Recommender Systems} \textbf{(RecSys)}, 2014.
+% \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li. "META: Multi-resolution Framework for Event Summarization", \emph{SDM International Conference on Data Mining} \textbf{(SDM)}, 2014.
+% \item Li Zheng, Chungqiu Zeng, Lei Li, \textbf{Yexi Jiang}, Wei Xue, Jingxuan Li, et al. "Applying Data Mining Techniques to Address Critical Process Optimization Needs in Advanced Manufacturing", \emph{ACM SIGKDD Conference on Knowledge Discovery and Data Mining} \textbf{(SIGKDD)}, 2014.
+% \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "Cloud Analytics for Capacity Planning and Instant VM Provisioning", \emph{IEEE Transactions on Network and Service Management} \textbf{(TNSM)}, 2013.
+% % \item Chunqiu Zeng, \textbf{Yexi Jiang}, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang. "FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment". \emph{ACM SIGKDD Conference on Knowledge Discovery and Data Mining} \textbf{(SIGKDD Demo)}, 2013.
+% \item Liang Tang, Tao Li, \textbf{Yexi Jiang} Zhiyuan Chen. "Dynamic Query Forms for Database Queries", \emph{IEEE Transactions on Knowledge and Data Engineering} \textbf{(TKDE)}, 2013. 
+% \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "Self-adaptive Cloud Capacity Planning". \emph{International Conference on Service Computing} \textbf{(SCC)}, 2012.
+% \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning". \emph{IEEE International Conference on Data Mining} \textbf{(ICDM)},  2011.
+% \item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li. "Natural Event Summarization". \emph{ACM Conference on Information and Knowledge Management }(\textbf{CIKM}), 2011.
+% \end{enumerate}
+
+% \section{Selected Honors and Awards}
+%     \begin{tabbing}
+%     \hspace{1.1in}\= \kill
+% 				Dissertation Year Fellowship\\
+%         IBM Fellowship for excellent Chinese student (80 students all over China)\\
+%         Excellent award of 'IBM PureXML Database Engineer' contest (Student group)\\
+%         Excellent award of 'IBM CUP' final competition\\
+%     \end{tabbing}
+\section{Education}
+\cventry{2015}{Ph.D. in Computer Science}{Florida International University}{Miami, FL,USA}{}{Research Area: Temporal Data Mining, Distributed Data Mining} % arguments 3 to 6 are optional
+\cventry{2010}{B.S and M.S. in Computer Science}{Sichuan University}{Chengdu, Sichuan,China}{}{Research Area: Data Mining} % arguments 3 to 6 are 
+%\cventry{2003-2007}{B.E. in Computer Science}{Sichuan University}{Chengdu, Sichuan,China}{}{GPA: 3.2} % arguments 3 to 6 are optional
+
+\end{document}

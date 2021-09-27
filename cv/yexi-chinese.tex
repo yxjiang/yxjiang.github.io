@@ -1,0 +1,191 @@
+%% start of file `moderncv_ntrp_template_en.tex'.
+%% Copyright 2007 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+%
+% Modded by ntrp (nitropowered@gmail.com)
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% moderncv themes
+%\moderncvtheme[blue]{casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvtheme[blue]{classic}                % idem
+\usepackage[noindent,UTF8]{ctex}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+% character encoding
+\usepackage[utf8x]{inputenc}                   % replace by the encoding you are using
+\usepackage[croatian]{babel}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
+
+\fancyfoot{} % clear all footer fields
+\fancyfoot[LE,RO]{\thepage}           % page number in "outer" position of footer line
+\fancyfoot[RE,LO]{\footnotesize } % other info in "inner" position of footer line
+
+% personal data
+\firstname{姜}
+\familyname{页希}
+\title{简历}               % optional, remove the line if not wanted
+% \address{11200 SW 8th. Street}{Miami, 33199, FL}    % optional, remove the line if not wanted
+\mobile{电话：305-458-8476}                    % optional, remove the line if not wanted
+%\phone{<Phone number>}                      % optional, remove the line if not wanted
+%\fax{<Fax number>}                          % optional, remove the line if not wanted
+\email{邮箱：yexijiang@gmail.com}                      % optional, remove the line if not wanted
+\extrainfo{GitHub: \url{https://github.com/yxjiang}, \\个人主页: \url{http://yxjiang.github.io/}}
+% \\领英地址: \url{https://www.linkedin.com/in/yxjiang}}
+%\extrainfo{LinkedIn: \url{http://www.linkedin.com/in/yxjiang}}
+%\extrainfo{additional information (optional)} % optional, remove the line if not wanted
+%\photo[84pt]{placeholder.jpg}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+%\quote{"Success is the ability to go from failure to failure without losing your enthusiasm." -- Winston Churchill}                 % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+%Section
+%\section{Info}
+%\cvline{Birth}{\small <Date> (<Place>)\normalsize}
+%\cvcomputer{Citizenship}{\small <Citisenship>\normalsize}{Driving License}{\small <License> \normalsize}
+%\cvline{Elance}{\small \url{<Link to profile>}\normalsize}
+% \cvline{LinkedIn}{\small \url{http://www.linkedin.com/in/yxjiang}\normalsize}
+%\cvline{Blog}{\small \url{<Link to profile>}\normalsize}
+%\cvline{Skype}{\small <skype>\normalsize}
+
+%Section
+%\section{Desidered employment and Skills}
+%\cvline{}{\Large <Desidered employment>}
+%\cvline{}{\small <Skills>}
+
+%Section
+\vspace{-0.3in}
+% \section{简介}
+% A passionate applied researcher and software developer with hands-on skills on data mining/machine learning algorithm development and research.
+% Extensive R\&D experience at the world's leading companies and open source community like Facebook, IBM, Microsoft, and Apache Software Foundation.
+% More than 20 research paper published at recognized international conferences and journals.
+% Strong eagerness to work with talented and energetic people on promising projects.
+
+
+\section{经历}
+
+\subsection{工业界经历}
+\cventry{2015}{研究科学家/工程师}{\textbf{Facebook Inc.}}{Menlo Park, CA}{USA}
+{
+\begin{itemize}\itemsep 0.05in
+\item 优化基于机器学习的广告预测模型，降低了广告商视频广告平均转化费用7\%并提高了视频广告浏览率15\%。
+\end{itemize}
+}
+\cventry{2014}{工程实习生}{\textbf{Facebook Inc.}}{Menlo Park, CA}{USA}
+{
+\begin{itemize}\itemsep 0.05in
+\item 
+改进并实现了个性化新闻流预测系统，使得对于活跃用户的感兴趣的新闻预测更准确。
+% Designed and implemented the pipeline as well as the related analytics tools for personalized News Feed ranking at Internet scale, making the recommendation more accurate for active users in Facebook. 
+\end{itemize}
+} % arguments 3 to 6 are optional
+\cventry{2011, 2012, 2013}{研究实习生}{\textbf{IBM 托马斯华生研究中心}}{New York, NY}{USA}
+{
+\begin{itemize}\itemsep 0.05in
+%\item Participate in the design and implementation of Phoenix: an internal system to provide the end-to-end automatic service composition.
+\item 参与并实现云计算服务市场的原型系统开发。该原型最后转化为IBM 2013 Global Technology Outlook project ``Scalable Services Ecosystem".
+% Participated in the design and implementation of an interactive service retrieval system called \textit{Cloud Services Marketplace} to facilitate the cloud services acquisition. This prototype evolved into IBM 2013 Global Technology Outlook project ``Scalable Services Ecosystem".
+\item 参与设计并实现了基于时间序列预测的云计算平台（IBM Smart Cloud Enterprise+）的容量规划预测算法。该算法可以有效预测近期云计算平台的需求量，使得系统可以提前准备相应资源，从而降低了云计算资源平均等待时间。
+% Designed and implemented a time-series prediction algorithm to help the cloud capacity planning and reduce the VM fulfillment time of IBM's Smart Cloud Enterprise from the perspective of resource prediction.
+% \item 
+% Participated in the design and implementation of a tool that leverages data mining techniques to improve the efficiency for both the customers and service providers during server configuration.
+\end{itemize}
+} % arguments 3 to 6 are optional
+\cventry{2009}{实习生}{\textbf{微软亚洲研究院}}{北京}{中国}
+{
+\begin{itemize}
+\item 设计并实现了用于分析Office用户操作行为的分布式频繁序列挖掘算法。算法的分析结果被用于新版Office软件的UI布局优化。
+% Designed and implemented a distributed frequent sequential mining algorithm to discover the users' popular operation sequences from the log of Office software to help the UI designers ameliorate the layout of the next version of Office.
+\end{itemize}
+} % arguments 3 to 6 are optional
+\subsection{开源项目}
+\cventry{Apache Software Foundation}{项目管理委员会成员}{\textbf{Apache Hama}: 基于Hadoop的BSP计算框架}{}{}
+{
+\begin{itemize}
+\item 设计并实现基于BSP的分布式机器学习算法，包括：多层神经网络(multilayer perceptron)，线性回归(linear regression)，逻辑回归(logistic regression)，以及自动编码器(auto-encoder)等。
+% Working on the distributed machine learning package, including the design and implementation of distributed multilayer perceptron, linear regression, logistic regression, and auto-encoder. [\textbf{\href{https://github.com/yxjiang/hama}{GitHub Link}}]
+% \item Bug fixing and existing feature improvement. 
+% \item Contributer of Apache Mahout:  Designed and implemented the stochastic version of multilayer perceptron.
+\end{itemize}
+} % arguments 3 to 6 are optional
+% \cventry{Apache Software Foundation}{Contributor}{\textbf{Apache Mahout}: Scalable machine learning and data mining library}{}{}
+% {
+% \begin{itemize}
+% \end{itemize}
+% }
+\subsection{学术经历}
+\cventry{08/2010-04/2015}{助理研究员}{Knowledge Discovery Research Group, Florida International University}{Miami, FL}{USA}
+{
+\begin{itemize}\itemsep 0.05in
+%\item Participating in the design and implementation of the inventory capacity planing and prediction system.
+\item 设计并实现了分布式检测系统，用于监控计算机集群的运行状况。
+% Designing and implementing a distributed monitoring system to conduct the continuous monitoring over the computer clusters.
+		[\textbf{\href{https://github.com/yxjiang/system-monitoring}{GitHub Link}}]
+\item	参与设计并实现FIU-Miner: 一个用户友好的分布式数据挖掘集成系统。
+% Participating in the design and implementation of FIU-Miner: An integrated and user-friendly data mining system under distributed environment.
+[\textbf{\href{http://datamining-node08.cs.fiu.edu/FIU-Miner}{Web Page Link}}]
+%\item	Other projects related to temporal data mining.
+\end{itemize}
+} % arguments 3 to 6 are optional
+%\subsection{Various}
+%\cventry{start-end}{<Brief Description>}{<Institution>}{<Place>}{<Country>}{<Description>} % arguments 3 to 6 are optional
+
+
+%Section
+% \section{编程技术} 
+% \cvcomputer{Languages}{Java (proficient), Python (proficient), C/C++ (familiar), Scala (prior experience)} {Frameworks \& Libries}{Apache Hive, Apache Hama, Apache Hadoop, ActiveMQ, Storm}
+% % \cvcomputer{DB}{Hive, MySQL, HDFS, MongoDB, PostgreSQL} {Tools}{Git, SVN, Maven}    
+
+
+\section{国际专利}
+\begin{enumerate} \itemsep 0.05in
+\item \textit{Cloud Provisioning Accelerator}. With Rong Chang, Mihwa Choi, Meir Laker, Chang-Shing Perng, Hidayatullah Shaikh, Edward So, Tao Tao. \textbf{US 20130139152}.
+\item \textit{Interactive Acquisition of Remote Services}. With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou. \textbf{US 20140337010}.
+%\item \textit{Constructing Semantic Dialog Driven Services and Products Discovery}. With Alla Segal, Anca Sailer, Charles Perng, Frank Schaffa, Ignacio Silva-Lepe, Jim Laredo, Tom Chefalas, Tao Tao. (Pending)
+\item \textit{Complex Service Network Ranking and Clustering}. With Rahul Akolkar, Thomas Chefalas, Jim Laredo, Chang-Shing Perng, Anca Sailer, Frank Schaffa, Alla Segal, Ignacio Silva-Lepe, Tao Tao, Yang Zhou. \textbf{Filed}.
+\end{enumerate}
+
+
+
+\section{国际会议及期刊论文发表（节选，总共发表20篇以上）}
+\begin{enumerate} \itemsep 0.05in
+\item Liang Tang, \textbf{Yexi Jiang}, Lei Li, Tao Li. "Personalized Recommendation via Parameter-Free Contextual Bandits", \emph{ACM Conference on Information Retrieval} \textbf{(SIGIR)}, 2015.
+\item \textbf{Yexi Jiang}, Chunqiu Zeng, Jian Xu, Tao Li. "Real time contextual collective anomaly detection over multiple data streams". \emph{ACM SIGKDD Workshop on Outlier Detection \& Description under Data Diversity} \textbf{(SIGKDD Workshop ODD$^2$)}, 2014.
+\item Liang Tang, \textbf{Yexi Jiang}, Lei Li, Tao Li. "Ensemble Contextual Bandits for Personalized Recommendation". \emph{ACM Conference on Recommender Systems} \textbf{(RecSys)}, 2014.
+\item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li. "META: Multi-resolution Framework for Event Summarization", \emph{SDM International Conference on Data Mining} \textbf{(SDM)}, 2014.
+\item Li Zheng, Chungqiu Zeng, Lei Li, \textbf{Yexi Jiang}, Wei Xue, Jingxuan Li, et al. "Applying Data Mining Techniques to Address Critical Process Optimization Needs in Advanced Manufacturing", \emph{ACM SIGKDD Conference on Knowledge Discovery and Data Mining} \textbf{(SIGKDD)}, 2014.
+\item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "Cloud Analytics for Capacity Planning and Instant VM Provisioning", \emph{IEEE Transactions on Network and Service Management} \textbf{(TNSM)}, 2013.
+% \item Chunqiu Zeng, \textbf{Yexi Jiang}, Li Zhen, Jingxuan Li, Lei Li, Hongtai Li, Chao Shen, Wubai Zhou, Tao Li, Bing Duan, Ming Lei, Pengnian Wang. "FIU-Miner: A Fast, Integrated, and User-Friendly System for Data Mining in Distributed Environment". \emph{ACM SIGKDD Conference on Knowledge Discovery and Data Mining} \textbf{(SIGKDD Demo)}, 2013.
+\item Liang Tang, Tao Li, \textbf{Yexi Jiang} Zhiyuan Chen. "Dynamic Query Forms for Database Queries", \emph{IEEE Transactions on Knowledge and Data Engineering} \textbf{(TKDE)}, 2013. 
+\item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "Self-adaptive Cloud Capacity Planning". \emph{International Conference on Service Computing} \textbf{(SCC)}, 2012.
+\item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li, Rong Chang. "ASAP: A Self-Adaptive Prediction System for Instant Cloud Resource Demand Provisioning". \emph{IEEE International Conference on Data Mining} \textbf{(ICDM)},  2011.
+\item \textbf{Yexi Jiang}, Chang-shing Perng, Tao Li. "Natural Event Summarization". \emph{ACM Conference on Information and Knowledge Management }(\textbf{CIKM}), 2011.
+\end{enumerate}
+
+% \section{Selected Honors and Awards}
+%     \begin{tabbing}
+%     \hspace{1.1in}\= \kill
+% 				Dissertation Year Fellowship\\
+%         IBM Fellowship for excellent Chinese student (80 students all over China)\\
+%         Excellent award of 'IBM PureXML Database Engineer' contest (Student group)\\
+%         Excellent award of 'IBM CUP' final competition\\
+%     \end{tabbing}
+\section{教育经历}
+\cventry{2015}{计算机科学博士}{Florida International University}{Miami, FL,USA}{}{研究领域：数据挖掘} % arguments 3 to 6 are optional
+\cventry{2010}{计算机科学学士/硕士}{四川大学}{四川成都}{}{研究领域: 数据挖掘} % arguments 3 to 6 are 
+%\cventry{2003-2007}{B.E. in Computer Science}{Sichuan University}{Chengdu, Sichuan,China}{}{GPA: 3.2} % arguments 3 to 6 are optional
+
+\end{document}
