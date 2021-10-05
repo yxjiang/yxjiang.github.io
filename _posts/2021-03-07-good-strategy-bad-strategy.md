@@ -35,94 +35,179 @@ As the book pointed out, defining a goal without guidelines on action is not a g
 One does not need to prescriptively check each of the points, but they are helpful guidelines on defining good strategies.
 
 # 摘要
-## Part One: OKRs in Action
 
-### 1. Google, meet OKRs
+## Part I: Good and bad strategy
 
-OKRs is short for Objectives and Key Results. It is a collaborative goal-setting protocol for companies, teams, and individuals. Now, OKRs are not a silver bullet. They cannot substitute for sound judgement, strong leadership, or a creative workplace culture. But if those fundamentals are in place, OKRs can guide you to the mountaintop.
+- Having a coherent strategy — one that coordinates policies and actions.
+- The creation of new strengths through subtle shifts in viewpoint.
 
-- An **OBJECTIVE** is simply **WHAT** is to be achieved, no more and no less. Objectives are significant, concrete, action oriented, and inspirational.
-- **KEY RESULTS** benchmark and monitor **HOW** we get to the objective. Effective KRs are specific and time-bound, aggressive yet realistic. They are also measurable and verifiable.
+### Chapter 1: Good strategy is unexpected
 
-An objective can be long-lived, rolled over for a year or longer, key results evolve as the work progresses. Once they are all completed, the objective is necessarily achieved.
+Good strategy requires leaders who are willing and able to say no to a wide variety of actions and interests. Strategy is at least as much about what an organization does not do as it is about what it does.
 
-Hard goals drive performance more effectively than easy goals. Specific hard goals produce a higher level of output than vaguely worded ones.
+### Chapter 2: Discovering power
 
-### 2. The father of OKRs
+The second natural advantage of many good strategies comes from insight into new sources of strength and weakness. Looking at things from a different or fresh perspective can reveal new realms of advantage and opportunity as well as weakness and threat.
 
-It almost doesn't matter what you know. It's what you can do with whatever you know or can acquire and actually accomplish that tends to be valued here.
+Use your relative advantages to impose out-of-proportion costs on the opposition and complicate his problem of competing with you.
 
-A limit of three to five OKRs per cycle leads companies, teams, and individuals to choose what matters most. In general, each objective should be tied to five or fewer key results.
+### Chapter 3: Bad stategy
 
-### 4. Superpower #1: Focus and commit to priorities
+Four major hallmarks of bad strategy:
 
-What are our main priorities for the coming period? Where should people concentrate their efforts? An effective goal-setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts.
+- **Fluff**. Fluff is superficial restatement of the obvious combined with a generous sprinkling of buzzwords.
+- **Failure to face the challenge**. If the challenge is not defined, it is difficult or impossible to assess the quality of the strategy.
+- **Mistaking goals for strategy**. To obtain higher performance, leaders must identify the critical obstacles to forward progress and then develop a coherent approach to overcoming them.
+- **Bad strategic objectives**. Effective senior leaders don't chase arbitrary goals. Rather, they decide which general goals should be pursued. A leader's most important job is creating and constantly adjusting this strategic bridge between goals and objectives.
+    - **Dog's dinner objectives**: There is a scrambled mess of things to accomplish — a "god's dinner" of strategic objectives.
+    - **Blue-sky objectives**: A simple restatement of the desired state of affairs or of the challenge. It skips over the annoying fact that no one has a clue as to how to get there.
 
-If an objective is well framed, three to five KRs will usually be adequate to reach it. Too many can dilute focus and obscure progress. Besides, each key result should be a challenge in its own right.
+Bad strategy is long on goals and short on policy or action.
 
-The more ambitious the OKR, the greater the risk of overlooking a vital criterion. To safeguard quality while pushing for quantitative deliverables, one solution is to pair key results — to measure "both effect and counter-effect".
+### Chapter 4: Why so much bad strategy
 
-Key results should be succinct, specific, and measurable.
+Bad strategy flourishes because it floats above analysis, logic, and choice, held aloft by the hot hope that one can avoid dealing with these tricky fundamentals and the difficulties of mastering them.
 
-### 7. Superpower #2: align and connect for teamwork
+Reasons for the creation of bad strategies:
 
-Because OKRs are transparent, they can be shared without cascading them in lockstep.
+- When leaders are unwilling or unable to make choices among competing values and parties.
+- Follow the template-style strategy — filling in the blanks with vision, mission, values, and strategies. This path offers a one-size-fits-all substitute for the hard work of analysis and coordinated action.
+- The belief that all you need to succeed is a positive mental attitude.
 
-To avoid compulsive, soul-killing over-alignment, healthy organizations encourage some goals to emerge from the bottom up.
+Serious strategy work is an already successful organization may not take place until the wolf is at the door — or even until the wolf's claws actually scratch on the floor — because good strategy is very hard work.
 
-Micro-management is mismanagement. A healthy OKR environment strikes a balance btween alignment and autonomy, common purpose and creative latitude.
+When organizations are unable to make new strategies — when people evade the work of choosing among different paths into the future — then you get vague mom-and-apple-pie goals that everyone can agree on. Such goals are direct evidence of leadership's insufficient will or political power to make or enforce hard choices. Put differently, universal buy-in usually signals the absence of choice.
 
-### 10. Superpower #3: track for accountability
+### Chapter 5: The kernel of good strategy
 
-One underrated virtue of OKRs is that they can be tracked and then revised or adapted as circumstances dictate. 
+The kernel of a strategy contains three elements:
 
-To help execute OKRs, a best practice is to designate one or more OKR shepherds.
+- **A diagnosis that defines or explains the nature of the challenge**.
+    
+    A great deal of strategy work is trying to figure out what is going on. Not just deciding what to do, but the more fundamental problem of comprehending the situation. 
+    
+    Diagnosis is a judgment about the meanings of facts. A
+    
+    A good strategic diagnosis does more than explain a situation — it also defines a domain of action.
+    
+- **A guiding policy for dealing with the challenge**.
+    
+    The guiding policy outlines an overall approach for overcoming the obstacles highlighted by the diagnosis. Without a diagnosis, one cannot evaluate alternative guiding policies.
+    
+    Functionality of a guiding policy:
+    
+    - Creates advantage by anticipating the actions and reactions of others.
+    - Reduce the complexity and ambiguity in the situation.
+    - Exploit the leverage inherent in concentrating effort on a pivotal or decisive aspect of the situation
+    - Create policies and actions that are coherent, each building on the other rather than canceling one another out.
+    
+- **A set of coherent actions that are designed to carry out the guiding policy**.
+    
+    Actions should coordinate and build upon one another, focusing organizational energy.
+    
 
-Whenever a key result or objective becomes obsolete or impractical, feel free to end it midstream.
+## Part II: Sources of power
 
-Wrap-up OKRs:
+### Chapter 6:  Using leverage
 
-- **Scoring**: Mark what we've achieved and address how we might do it differently next time. The simplest and cleanest way to score an objective is by averaging the percentage completion rates of its associated key results.
-- **Self-assessment**: In evaluating OKR performance, objective data is enhanced by the goal setter's thoughtful, subjective judgment.
-- **Reflection**: The key to satisfaction is to set aggressive goals, achieve most of them, pause to reflect on the achievement, and then repeat the cycle.
+A good strategy draws power from focusing minds, energy, and action. That focus, channeled at the right moment onto a pivotal objective, can produce a cascade of favorable outcomes. I call this source of power leverage.
 
-### 12. Superpower #4: stretch for amazing
+- **Anticipation**: The strategist may have insight into predictable aspects of others' behavior that can be turned to advantage.
+- **Pivot points**: To achieve leverage, the strategist must have insight into a pivot point that will magnify the effects of focused energy and resources.
+- **Concentration**: Returns to concentration arise when focusing efforts on fewer, or more limited, objectives generates larger payoffs.
 
-OKRs push us far beyond our comfort zones. They lead us to achievements on the border between abilities and dreams.
+### Chapter 7: Proximate objectives
 
-Leaders must convey two things: the importance of the outcome, and the belief that it's attainable.
+One of a leader's most powerful tools is the creation of a good proximate objective — one that is close enough at hand to be feasible. A proximate objective names a target that the organization can reasonably be expected to hit, even overwhelm.
 
-## Part Two: The New World of Work
+An important duty of any leader is to absorb a large part of that complexity and ambiguity, passing on to the organization a simpler problem — one that is solvable.
 
-### 15. Continuous performance management: OKRs and CFRs
+The more uncertain and dynamic the situation, the more proximate a strategic objective must be.
 
-Distorted recency bias, burdened by stack rankings and bell curves, these end-of-year evaluations can't possibly be fair or well measured.
+In organizations of any size, high-level proximate objectives create goals for lower-level units, which, in turn, create their own proximate objectives, and so on, in a cascade of problem solving at finer and finer levels of detail.
 
-Continuous performance management. It is implemented with an instrument called CFR:
+### Chapter 8: Chain-link systems
 
-- **Conversation**: An authentic, richly textured exchange between manager and contributor, aimed at driving performance.
-- **Feedback**: Bidirectional or networked communication among peers to evaluate progress and guide future improvement.
-- **Recognition**: Expressions of appreciation to deserving individuals for contributions of all sizes.
+A system has a chain-link logic when its performance is limited by its weakest subunit, or "link." When there is a weak link, a chain is not made stronger by strengthening the other links.
 
-People are more likely to feel fulfilled when they have clear and aligned targets. They're not wandering and wondering about heir work; they can see how it connects and helps the organization.
+The excellence achieved by a well-managed chain-link system is difficult to replicate.
 
-OKRs reflect a person's most meaningful work, they're a source of reliable feedback for the cycle to come. But when goals are used and abused to set compensation, employees can be counted on to sandbag. They start playing defense; they stop stretching for amazing. They get bored for lack of challenge. And the organization suffers most of all.
+### Chapter 10: Focus
 
-Topics of one-on-ones:
+If you are serious about strategy work, you must always do your own analysis. A strategy is not necessarily what the CEO intended or what some executive says it is. Sometimes they are hiding the truth, sometimes they are misstating it, and sometimes they have taken a position as leader without really knowing the reasons for their company's success.
 
-- Goal setting and reflection.
-- Two-way coaching.
-- Career growth.
-- Lightweight performance reviews.
+When faced with a question or problem to which there is no obvious answer, it is human nature to welcome the first seemingly reasonable answer that pops into mind.
 
-### 18. Culture
+At the core, strategy is about focus, and most complex organizations don't focus their resources. Instead, they pursue multiple goals at once, not concentrating enough resources to achieve a break through in any of them.
 
-Culture is the common language that allows for individuals in an organization to be sure they're all talking about the same thing — and that what they're talking about has meaning. Beyond that, culture establishes a common framework for decision making. In its absence, people are at a loss for how to make key functions replicable and scalable.
+### Chapter 11: Growth
 
-An OKR culture is an accountable culture. You don't push toward a goal just because the boss gave you an order. You do it because every OKR is transparently important to the company, and to the colleagues who count on you.
+Healthy growth is not engineered. It is the outcome of growing demand for special capabilities or of expanded or extended capabilities. It is the outcome of a firm having superior products and skills. It is the reward for successful innovation, cleverness, efficiency, and creativity. This kind of growth is not just and industry phenomenon. It normally shows up as a gain in market share that is simultaneous with a superior rate of profit.
 
-From doing the things right to doing the right things.
+### Chapter 12: Using advantage
 
-### 21. The goals to come
+In real rivalry, there are an uncountable number of asymmetries. It is the leader's job to identify which asymmetries are critical — which can be turned into important advantages.
 
-Ideas are easy, execution is everything.
+More complex forms of isolating mechanisms include reputations, commercial and social relationships, network effects, dramatic economies of scale, and tacit knowledge and skill gained through experience.
+
+Increasing value requires a strategy for progress on at least one of four different fronts:
+
+- **Deepening advantages**: Deepening an advantage means widening the gap between buyer value and cost by either increasing value to buyers, reducing costs, or both.
+- **Broadening the extent of advantages**: Extending an existing competitive advantage brings it into new fields and new competitions.
+- **Creating higher demand for advantaged products or services**: A competitive advantage becomes more valuable when the number of buyers grows and/or when the quantity demanded by each buyer increases.
+- **Strengthening the isolating mechanisms that block easy replication and imitation by competitors**: An isolating mechanism inhibits competitors from duplicating your product or the resources underlying your competitive advantage. If you can create new isolating mechanisms, or strengthen existing ones, you can increase the value of the business.
+
+### Chapter 13: Using dynamics
+
+One way to find fresh undefended high ground is by creating it yourself through pure innovation. The other way to grab the high ground — the way that is my focus here — is to exploit a wave of change. Such waves of change are largely exogenous — they are mostly beyond the control of any one organization.
+
+To make good bets on how a wave of change will play out you must acquire enough expertise to question the experts. As changes begin to occur, the air will be full of comments about what is happening, but you must be able to dig beneath that surface and discover the fundamental forces at work. Leaders who stay "above the details" may do well in stable times, but riding a wave of change requires an intimate feel for its origins and dynamics.
+
+A leader does not need to get it totally right — the organization's strategy merely has to be more right than those of its rivals. 
+
+Each guidepost is an observation or way of thinking that seems to warrant attention:
+
+- Rising fixed costs.
+- Deregulation.
+- Predictable biases.
+- Incumbent response.
+- Attractor states.
+
+### Chapter 14: Inertia and entropy
+
+Inertia and entropy have several important implications for strategy:
+
+- Successful strategies often owe a great deal to the inertia and inefficiency of rivals.
+- An organization's greatest challenge may not be external threats or opportunities, but instead the effects of entropy and inertia.
+
+Solutions of resolving inertia:
+
+- **Simplification**. Eliminate the complex routines, processes, and hidden bargains among units that mask waste and inefficiency.
+- **Fragment the operating units**. Separate units do not need to work in close coordination.
+- **Perform a triage**. Some units will be closed, some will be repaired, and some will form the nuclei of a new structure.
+
+If you invest in advertising or product development to take business away from a competitor, that may increase the corporate pie. But if you invest to take business away from a sister brand or division, that may make the whole corporate pie smaller.
+
+## Part III: Thinking like a strategist
+
+In creating strategy, it is often important to take on the viewpoints of others, seeing how the situation looks to a rival or to a customer.
+
+### Chapter 16: The science of strategy
+
+A new strategy is a hypothesis and its implementation is an experiment.
+
+The presumption that all important knowledge is already known, or available through consultation with authorities, deadens innovation. It is this presumption that stifles change in traditional societies and blocks improvement in organizations and societies that come to believe that their way is the best way. To generate a strategy, one must put aside the comfort and security of pure deduction and launch into the murkier waters of induction, analogy, judgment, and insight.
+
+### Chapter 17: Using your head
+
+Most people solve problems by grabbing the first solution that pops into their heads — the first insight. In a large number of situations this is reasonable. It is the efficient way to get through life. We simply don't have the time, energy, or mental space to do a full and complete analysis of every issue we face.
+
+To guide your own thinking in strategy work, you must cultivate three essential skills of habits.
+
+1. Have a variety of tools for fighting your own myopia and for guiding your own attention.
+2. Develop the ability to question your own judgement.
+3. Cultivate the habit of making and recording judgement so that you can improve.
+
+### Chapter 18: Keeping your head
+
+Social herding presses us to think that everything is OK because everyone else is saying so. The inside view presses us to ignore the lessons of other times and other places, believing that our company, our nation, our new venture, or our era is different. It is important to push back against these biases.
