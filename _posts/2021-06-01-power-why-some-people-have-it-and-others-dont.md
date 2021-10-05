@@ -15,6 +15,7 @@ categories: [summary, book]
 
 在心性不足时看此书切记“害人之心不可以，防人之心不可无”。如果想更近一步，可以考虑“利人之心不可无”。
 
+# 摘要
 ## 1. It takes more than performance
 
 The lesson from cases of people both keeping and losing their jobs is that as long as you keep your boss or bosses happy, performance really does not matter that much, and if you upset them, performance won't save you.
