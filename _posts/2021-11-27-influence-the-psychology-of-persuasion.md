@@ -6,7 +6,7 @@ categories: [summary, book]
 ---
 
 <p align="center">
-    <img src="/assets/images/2021-11-27-influence-the-psychonogy-of-persuasion/influence-the-psychonogy-of-persuasion.png" alt="drawing"/>
+    <img src="/assets/images/2021-11-27-influence-the-psychology-of-persuasion/influence-the-psychology-of-persuasion.png" alt="drawing"/>
 </p>
 
 This is not a book about influence in the professional work. It is more about raise people's awareness about the influence tactics people are exposed in their daily life, though these tactics can be used in the professional work.
@@ -92,7 +92,7 @@ when we are unsure of ourselves, when the situation is unclear or ambiguous, whe
 The seeming appropriateness of an action is importantly influenced by the number of others performing it.
 
 <p align="center">
-    <img src="/assets/images/2021-11-27-influence-the-psychonogy-of-persuasion/sky.jpeg" alt="drawing"/>
+    <img src="/assets/images/2021-11-27-influence-the-psychology-of-persuasion/sky.jpeg" alt="drawing"/>
 </p>
 
 - **Validity**: Following the advice or behaviors of the majority of those around us is often seen as a shortcut to good decision-making.
