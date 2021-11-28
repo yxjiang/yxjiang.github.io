@@ -92,7 +92,7 @@ when we are unsure of ourselves, when the situation is unclear or ambiguous, whe
 The seeming appropriateness of an action is importantly influenced by the number of others performing it.
 
 <p align="center">
-    <img src="/assets/images/2021-11-27-influence-the-psychonogy-of-persuasion/sky.jpg" alt="drawing"/>
+    <img src="/assets/images/2021-11-27-influence-the-psychonogy-of-persuasion/sky.jpeg" alt="drawing"/>
 </p>
 
 - **Validity**: Following the advice or behaviors of the majority of those around us is often seen as a shortcut to good decision-making.
