@@ -182,8 +182,6 @@ People have a natural tendency to think a statement reflects the true attitude o
 
 Once an active commitment is made, then, self-image is squeezed from both sides by consistency pressures. From the inside, there is a pressure to bring self-image into line with action. From the outside, there is a sneakier pressure—a tendency to adjust this image according to the way others perceive us.
 
-## Chapter 7: Commitment and consistency
-
 Most people have the desire to be and look consistent within their words, beliefs, attitudes, and deeds.
 
 Within the realm of compliance, securing an initial commitment is the key. People are more willing to agree to requests in keeping with the prior commitment.
