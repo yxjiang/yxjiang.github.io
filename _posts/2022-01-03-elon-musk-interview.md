@@ -7,6 +7,8 @@ categories: [summary, interview]
 
 假期最后一天看了一段Lex Fridman对Elon Musk的采访。这段采访长达150分钟，包含了数十个小话题，且大部分都是很大的话题。比如星际探索、方法论、数字货币、自动驾驶等。这篇文章对访谈中几个有意思的话题做了简短的总结。
 
+采访bilibili链接：https://www.bilibili.com/video/BV17L4y1E77T?from=search&seid=15170775261688938686&spm_id_from=333.337.0.0
+
 <p align="center">
     <img src="/assets/images/2022-01-03-elon-musk-interview/2022-01-03-elon-musk-interview.png" alt="drawing"/>
 </p>
