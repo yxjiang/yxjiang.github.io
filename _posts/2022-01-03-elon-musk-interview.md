@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Elon Musk 2021 Interview"
+title:  "Elon Musk 2021 采访观后感"
 date:   2022-01-01
 categories: [summary, interview]
 ---
