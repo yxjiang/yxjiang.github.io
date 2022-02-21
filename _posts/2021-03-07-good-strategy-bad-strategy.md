@@ -4,12 +4,12 @@ title:  "Good Strategy, Bad Strategy"
 date:   2021-03-07
 categories: [summary, book]
 ---
+"Good strategy, bad strategy" is a book about how to create good strategies. Strategy is a term usually used by the MBAs. As a person live in the silicon valley, I know "MBA" is usually a derogatory word due to the track records of companies led by executives with MBA degree lost battles to the newbie startup founders. However, I'd say the loss of those MBA-led companies are probably due to slow execution instead of bad strategy. After reading this book, I'm really impressed by the thought process on designing good strategies proposed by the author. 
 
 <p align="center">
     <img src="/assets/images/2021-03-07-good-strategy-bad-strategy/good_strategy_bad_strategy.png" alt="drawing"/>
 </p>
 
-"Good strategy, bad strategy" is a book about how to create good strategies. Strategy is a term usually used by the MBAs. As a person live in the silicon valley, I know "MBA" is usually a derogatory word due to the track records of companies led by executives with MBA degree lost battles to the newbie startup founders. However, I'd say the loss of those MBA-led companies are probably due to slow execution instead of bad strategy. After reading this book, I'm really impressed by the thought process on designing good strategies proposed by the author. 
 
 ## Good strategy vs. bad strategy
 

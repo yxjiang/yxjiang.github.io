@@ -5,11 +5,12 @@ date:   2021-05-09
 categories: [summary, book]
 ---
 
+Measure what matters is a great book written by the OKR advocator John Doerr, who learned OKR while worked at Intel in the 1970s and promoted it to be widely used in Google ~2000s. 
+
 <p align="center">
     <img src="/assets/images/2021-05-09-measure-what-matters/measure_what_matters.jpg" alt="drawing"/>
 </p>
 
-Measure what matters is a great book written by the OKR advocator John Doerr, who learned OKR while worked at Intel in the 1970s and promoted it to be widely used in Google ~2000s. 
 
 Before OKR is widely known, there are many discussion around whether vision or planning are more important or execution is more important. MBAs are favored on describing the big pictures or directions, while the doers focus on executions. The famous quote from Linus Torvalds, "Talk is cheap, show me the code", is a good example for the mindset of the doers.
 
