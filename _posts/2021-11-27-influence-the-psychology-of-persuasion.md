@@ -4,12 +4,12 @@ title:  "Influence: The Psychology of Persuasion"
 date:   2021-11-27
 categories: [summary, book]
 ---
+This is not a book about influence in the professional work. It is more about raise people's awareness about the influence tactics people are exposed in their daily life, though these tactics can be used in the professional work.
 
 <p align="center">
     <img src="/assets/images/2021-11-27-influence-the-psychology-of-persuasion/influence-the-psychology-of-persuasion.png" alt="drawing"/>
 </p>
 
-This is not a book about influence in the professional work. It is more about raise people's awareness about the influence tactics people are exposed in their daily life, though these tactics can be used in the professional work.
 
 This book described a number of psychological tricks that can influence or control people to take actions in the way we except. Although the books has 500+ pages, the core is around 50+ pages. The main idea of this book is to express that human being (or animals in general) has some "hard-coded" fixed-action patterns (described as “click, run” in this book).
 
