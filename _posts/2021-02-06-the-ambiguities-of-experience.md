@@ -4,12 +4,11 @@ title:  "The Ambiguities of Experience"
 date:   2021-02-06
 categories: [summary, book]
 ---
+Understanding how human beings understand the world is attractive. Especially for people like me that are interested in machine learning and data mining. The mechanism of human understanding can inspire us to improve how machine learn things, and then we can quickly scale out the capability of knowledge learning due to machine nature.
 
 <p align="center">
     <img src="/assets/images/2021-02-06-the-ambiguities-of-experience/the-ambiguities-of-experience.jpg" alt="drawing"/>
 </p>
-
-Understanding how human beings understand the world is attractive. Especially for people like me that are interested in machine learning and data mining. The mechanism of human understanding can inspire us to improve how machine learn things, and then we can quickly scale out the capability of knowledge learning due to machine nature.
 
 I had some vague thoughts on how human beings learn the knowledge from an amateur's perspective. This book validates a lot of such thoughts from an expert perspective, organizes them in a much better structure, and presents them in an intuitive way.
 
