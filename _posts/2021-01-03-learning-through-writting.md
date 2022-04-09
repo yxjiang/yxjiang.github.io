@@ -2,7 +2,7 @@
 layout: single
 title:  "Learning through Writing"
 date:   2021-01-03
-categories: summary
+categories: [summary, methodology]
 ---
 
 > The person who says he knows what he thinks but cannot express it usually does not know what he thinks.  --- Mortimer Alder

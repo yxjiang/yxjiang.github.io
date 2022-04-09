@@ -2,7 +2,7 @@
 layout: single
 title:  "Power: Why someone has it, while others don't"
 date:   2021-06-01
-categories: [summary, book]
+categories: [summary, book, management, career]
 ---
 此书乃职场“九阴真经”，读后起到的效果取决于读者的心性。心性不足者看后会如梅超风一般连成职场“九阴白骨爪”而达到双输的效果，心性甚高者会学会后如同郭靖一般对社会带来价值。
 

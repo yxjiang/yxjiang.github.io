@@ -2,7 +2,7 @@
 layout: single
 title:  "Influence: The Psychology of Persuasion"
 date:   2021-11-27
-categories: [summary, book]
+categories: [summary, book, psychology, methodology]
 ---
 This is not a book about influence in the professional work. It is more about raise people's awareness about the influence tactics people are exposed in their daily life, though these tactics can be used in the professional work.
 

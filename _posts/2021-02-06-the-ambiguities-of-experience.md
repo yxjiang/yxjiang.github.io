@@ -2,7 +2,7 @@
 layout: single
 title:  "The Ambiguities of Experience"
 date:   2021-02-06
-categories: [summary, book]
+categories: [summary, book, philosophy, world view, methodology]
 ---
 Understanding how human beings understand the world is attractive. Especially for people like me that are interested in machine learning and data mining. The mechanism of human understanding can inspire us to improve how machine learn things, and then we can quickly scale out the capability of knowledge learning due to machine nature.
 

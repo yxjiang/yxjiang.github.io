@@ -2,7 +2,7 @@
 layout: single
 title:  "Measure What Matters"
 date:   2021-05-09
-categories: [summary, book]
+categories: [summary, book, career, methodology]
 ---
 
 Measure what matters is a great book written by the OKR advocator John Doerr, who learned OKR while worked at Intel in the 1970s and promoted it to be widely used in Google ~2000s. 
