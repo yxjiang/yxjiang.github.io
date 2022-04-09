@@ -91,4 +91,6 @@ categories: [summary, book, philosophy]
 不知道大家是否知道泼妇这一词的来源。苏格拉底的妻子Xanthippe传闻是唯一不输苏格拉底辩论（至少在控场能力上）的人。某次辩论后，她想苏格拉底泼水。苏格拉底说：雷鸣之后，通常都会下雨。于是“泼”便与这种行为绑定在了一起。
 
 <p align="center">
-    <img src="/assets/images/2022-04-09/xanthippe
+    <img src="/assets/images/2022-04-09/xanthippe.png" alt="drawing/">
+</p>
+*图片来源：互联网*
