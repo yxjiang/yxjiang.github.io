@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "从苏格拉底的对话对对西方思想追根溯源"
+title:  "从苏格拉底的对话看西方世界观与价值观"
 date:   2022-04-09
 categories: [summary, book, philosophy]
 ---
