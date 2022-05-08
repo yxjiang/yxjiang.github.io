@@ -28,30 +28,30 @@ categories: [summary, book, worldview, methodology]
 
 <p align="center">
     <img src="/assets/images/2022-05-07/city-population.png" alt="drawing/">
-    城市人口分布
 </p>
+城市人口分布
 
 
 <p align="center">
     <img src="/assets/images/2022-05-07/country-population.png" alt="drawing/">
-    国家人口分布对数图
 </p>
+国家人口分布对数图
 
 
 YouTube上面视频的点赞数也呈现了典型的极端斯坦特性。头部视频点赞数可以达到上千万，而大多数的视频一个赞也没有。
 
 <p align="center">
     <img src="/assets/images/2022-05-07/youtube.png" alt="drawing/">
-    YouTube视频点赞数对数-对数图（图片来源: artoftroubleshooting.com）
 </p>
+YouTube视频点赞数对数-对数图（图片来源: artoftroubleshooting.com）
 
 
 我们都知道世界上的财富分配极为不均，马太效应显著。下图显示了世界财富的分布到底有多么不平均：最富的前1%的人拥有45.8%的财富， 后55%的人只拥有1.3%的财富。这已经远远超过二八定律所描述的不平均了。
 
 <p align="center">
     <img src="/assets/images/2022-05-07/wealth.png" alt="drawing/">
-    世界财富分布 ：（图片来源：visualcapitalist.com）
 </p>
+世界财富分布 ：（图片来源：visualcapitalist.com）
 
 抛开花活看内涵，极端斯坦其实并不神秘。上面的分布实际上早就有不少数学模型描述了，这一类模型被统称为幂律分布。
 
@@ -65,18 +65,18 @@ YouTube上面视频的点赞数也呈现了典型的极端斯坦特性。头部�
 
 <p align="center">
     <img src="/assets/images/2022-05-07/levy.png" alt="drawing/">
-    列维分布 （图片来源: wikipedia.org）
 </p>
+列维分布 （图片来源: wikipedia.org）
 
 <p align="center">
     <img src="/assets/images/2022-05-07/pareto.png" alt="drawing/">
-    帕累托分布 （图片来源: wikipedia.org）
 </p>
+帕累托分布 （图片来源: wikipedia.org）
 
 <p align="center">
     <img src="/assets/images/2022-05-07/zipf.png" alt="drawing/">
-    描述互联网时代事物的zipf分布（图片来源：互联网）
 </p>
+描述互联网时代事物的zipf分布（图片来源：互联网）
 
 ## 整体可预测，而个体不可预测性
 极端斯坦的事物是难以预测的，即使有了上述数学工具，我们仍然无法精确预测头部事物的规模以及极端情况发生的时间。
@@ -87,8 +87,8 @@ YouTube上面视频的点赞数也呈现了典型的极端斯坦特性。头部�
 
 <p align="center">
     <img src="/assets/images/2022-05-07/amazon.png" alt="drawing/">
-    如果你身处2001年，你会买跌了90%且成立以来从未盈利的亚马逊股票么？
 </p>
+如果你身处2001年，你会买跌了90%且成立以来从未盈利的亚马逊股票么？
 
 在互联网时代，没有人知道下一个变火的游戏、视频、帖子是什么。甚至当事人自己都不知道。Flappy bird作者自己就没料到这个小游戏会有5000万次下载；也没人料到一部短短55秒的Youtube视频”Charlie bit my finger“可以获得了超过8亿次浏览；同样，我们也不知道下一个会爆火的网红的作品是什么样子。即使对于互联网这个炒作爆款的手段已经越来越成熟的红海市场，炒作团队仍然无法在数量级上预测准炒作对象的火爆程度。
 
@@ -114,8 +114,8 @@ YouTube上面视频的点赞数也呈现了典型的极端斯坦特性。头部�
 
 <p align="center">
     <img src="/assets/images/2022-05-07/ltcm.png" alt="drawing/">
-    LTCM盈利四年超过超过400%（年化达到42%），六个月后几乎清零
 </p>
+LTCM盈利四年超过超过400%（年化达到42%），六个月后几乎清零
 
 分散风险也可以用于金融领域之外，比如Elon Musk一直秉持的让人类成为多星球物种的理念（详情可见这篇访谈）。一旦成功，人类文明就可以从导致恐龙灭绝这类灭世级的灾难中延续下来。灭世级灾难是灰犀牛事件，迟早会发生，只是我们不知道具体时间而已。已知的就有超级火山、陨石撞地球、超新星爆发等。中国国家航天局最近披露的建造近地小行星防御系统的计划，算是在人类有能力多星球繁衍前加的一道保险。
 
@@ -156,12 +156,12 @@ YouTube上面视频的点赞数也呈现了典型的极端斯坦特性。头部�
 
 <p align="center">
     <img src="/assets/images/2022-05-07/ltcm.png" alt="drawing/">
-    ARK ETF五年走势图
 </p>
+ARK ETF五年走势图
 
 **粮食危机**
 粮食危机其实在2020年就已经开始变得严重了，只不过出问题的地方不是世界的中心舞台，因此新闻根本不播放。2022年的俄乌战争更是加剧了这一问题的严重性。俄罗斯与乌克兰均为世界粮食出口大国，两者一共贡献了世界大麦出口的32%，小麦出口28%，同时还是玉米，菜籽油等主要粮食的出口国。此外，俄罗斯是世界上最大的化肥出口国，白俄罗斯也是化肥重要出口国。粮食问题看看2020年后四大粮商中上市公司的股票走势与纽交所指数的对比就知道了。
 <p align="center">
     <img src="/assets/images/2022-05-07/ltcm.png" alt="drawing/">
-    四大粮商之一ADM在2022年后开始大涨。2022年后在整体股市下跌时更是加速上涨。
 </p>
+四大粮商之一ADM在2022年后开始大涨。2022年后在整体股市下跌时更是加速上涨。
