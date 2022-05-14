@@ -111,9 +111,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=ojlglBsAAAAJ&hl=en"
-    - label: "微信公众号"
+    - label: "微信公众号（搜索“小思辩”或者“SmallThinking”）"
       icon: "fas fa-fw fa-link"
-      url: "搜索：小思辩 （或者SmallThinking）"
+      url: ""
 
 # Site Footer
 footer:
