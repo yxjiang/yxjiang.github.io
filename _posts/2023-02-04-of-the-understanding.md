@@ -22,7 +22,7 @@ categories: [summary, philosophy, worldview ]
 由于全书内容很多以及个人对认识论更感兴趣，我打算先只读第一部分，即《论知性》。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/1.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/1.png" alt="drawing"/>
 </p>
 
 ## 关于想法，以及想法的来源、组合、连接、以及抽象化的讨论
@@ -34,7 +34,7 @@ categories: [summary, philosophy, worldview ]
 印象是人类对外部直接获取的原始信息直接感知。想法是对信息进行加工后的人造产物，本质来源是印象。区分印象和想法的一个方法是判断这个信息是否能够纯靠推理想象得到。比如一个从来没吃过苹果的人无法想象出苹果的味道，那么苹果的味道就是印象。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/2.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/2.png" alt="drawing"/>
 </p>
 
 进一步，印象可以细化为”**感觉印象**（impressions of sensation）“和”**情感印象**（impressions of reflection）“。前者就是我们通常所说的五感了。休谟处在18世纪，当时还没有脑科学。因此他认为前者是由灵魂通过不明机制来处理。现在我们知道外部信息是通过电信号通过神经传递到大脑处理的。
@@ -42,7 +42,7 @@ categories: [summary, philosophy, worldview ]
 想法也可以细分为”**关于记忆的想法**（ideas of the memory）“和“**关于想象的想法**（ideas of the imagination）”。比如对昨天参加的宴会的记忆属于前者，而看到一个漂亮女生后连孩子的名字都想好了属于后者。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/3.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/3.png" alt="drawing"/>
 </p>
 
 关于记忆的想法是基于我们实际经历过的事情，因此相关的信息更具体、更生动、也更有色彩。比如我们可能清楚地记得昨天和哪些人聊了天，或者吃了哪些菜。
@@ -56,36 +56,36 @@ categories: [summary, philosophy, worldview ]
 比如当我们输入核聚变发电机时，AI生成了如下左图。我们很容易看出信息的来源是实验中的托卡马克核聚变装置。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/4.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/4.png" alt="drawing"/>
     Text-2-image 模型生成的核聚变发电机图片
 </p>
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/5.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/5.png" alt="drawing"/>
     实验中的托卡马克核聚变装置
 </p>
 
 当我们输入一些我们完全未知的东西时，AI生成了我们可以证伪的图片。比如黑洞内部实际是黑洞外部的图片。而当输入负时间这个词时，生成的图片则完全不搭边了。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/6.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/6.png" alt="drawing"/>
     AI生成图片：Prompt: inside the black hole
 </p>
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/7.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/7.png" alt="drawing"/>
     AI生成图片：Prompt: the negative time
 </p>
 
 机器学习的优势是可以极为有效率的帮我们对已有信息进行排列组合，但是对拓展认知边界帮助有限。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/8.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/8.png" alt="drawing"/>
     AI生成图片：黑客帝国版笛卡尔
 </p>
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/9.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/9.png" alt="drawing"/>
     AI生成图片：老子对决苏格拉底。​分不清谁是谁。其中一个人还有三只手。​
 </p>
 
@@ -101,12 +101,12 @@ categories: [summary, philosophy, worldview ]
 2. **空间、时间和物体的关系**:休谟认为这三者是密不可分的。我们想象不出不存在于空间中的物体，同样也想象不出完全的真空。这里说的真空和我们日常生活中所说的没有空气的真空不一样，是指真正完全没有物体的**无限空间**。此外，我们对于时间的判断依赖于物体的状态变化。如果不存在物体，或者所有物体的状态都不变，我们便无法判断时间的流逝。想想看电影是不是都通过这种方式表现时间静止的。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/10.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/10.png" alt="drawing"/>
     直径2.5亿光年的牧夫座空洞，空是由周围的不空来衬托
 </p>
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/11.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/11.png" alt="drawing"/>
     黑客帝国剧照，实际上真正的时间静止应该是什么也看不见的，因为光子也停止运动了
 </p>
 
@@ -127,7 +127,7 @@ categories: [summary, philosophy, worldview ]
 我们可能已经看过很多遍下面这个认知偏差的例子。这个物体上下两部分在我们大多数人看来是“显而易见”的不同亮度，但如果我们试着用手指挡住中间部分，就可以看出它们是相同亮度的。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/12.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/12.png" alt="drawing"/>
     视觉偏差图片
 </p>
 
@@ -148,7 +148,7 @@ categories: [summary, philosophy, worldview ]
 最后是causation，休谟认为因果并不天然存在。**我们对于因果的认知是通过不断重复观察到两个事物先后出现的推理结果**。因果是可能性推理的产物，而不是必然或者天然存在的。即使是我们觉得天经地义的关系，也并不是亘古不变的。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/13.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/13.png" alt="drawing"/>
     太阳每天升起这种显而易见的事情也并不是必然的，有兴趣的可以看看https://www.ixigua.com/7048532455225197059
 </p>
 
@@ -171,7 +171,7 @@ categories: [summary, philosophy, worldview ]
 个人认为，对于物体的持续客观存在这一信念同时来源于感知、推理、以及想象。比如我们就是通过结合三者来设计目标追踪机器学习算法的。就拿很流行的DeepSORT算法来说，这个算法分为四个步骤：识别（detection），估计（estimation），关联（data association），以及身份更新（identity）。其本质是对识别对象（感知）根据假设（想象）以及统计模型（概然性推理）进行”实“与”名“关联的算法。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/14.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/14.png" alt="drawing"/>
     DeepSORT算法应用于路人追踪。图片来源：https://arxiv.org/pdf/1703.07402.pdf
 </p>
 
@@ -185,7 +185,7 @@ categories: [summary, philosophy, worldview ]
 比如我们想让一个模型来预测将来用户的网页浏览行为，通常的做法是进行用户特征提取来使得模型更了解用户。如果我们只抽取简单的信息，比如年龄性别的话。那么从模型的世界观中，它对用户这个事物的全部了解就只可能是这两个信息了。模型可以掌握到的所有规律也无非是这两个特征的排列组合。但如果我们提供模型更多的用户特征，比如每天浏览网页的时间、过去一个月浏览了哪些网页、分享了哪些网页、在每个网页逗留时间等特征。那么模型对该用户的了解程度便大大提升。掌握这些信息的模型对于用户行为的预测精度会高于只知道用户年龄性别的模型。
 
 <p align="center">
-    <img src="/assets/images/2023-02-01/15.png" alt="drawing"/>
+    <img src="/assets/images/2023-02-04/15.png" alt="drawing"/>
     一个模型对用户的所有理解来源于我们所提供的信息
 </p>
 
